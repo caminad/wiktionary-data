@@ -1,0 +1,5 @@
+4@RadialPalm-OpenB@CenterChesthigh_Contact_4@UlnarPalm_4@BasePalm_Contact_4@TipFinger
+A@Wrist-PalmUp-A@CenterTrunkhigh-PalmUp_5@SideTrunkhigh-PalmUp-5@SideTrunkhigh-PalmUp
+Curved5@TipFinger-Curved5@CenterChesthigh_Curved5@SideChesthigh-Curved5@SideChesthigh
+Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu
+X@Finger@PalmDown-X@CenterChesthigh-PalmUp_X@Finger@PalmUp-X@CenterChesthigh-PalmDown

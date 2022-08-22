@@ -1,0 +1,3 @@
+1@InFinger-PalmForward-5@CenterNeckhigh-PalmDown_1@FromFinger-PalmForward-5@CenterNeckhigh-PalmDown
+1@Sfhead-PalmDown_Claw5@InsideChesthigh-PalmDown-Claw5@InsideTrunkhigh-PalmUp_RoundHoriz-RoundHoriz
+S@InsideChesthigh-PalmUp-S@InsideChesthigh-PalmUp_5@InsideChesthigh-PalmUp-5@InsideChesthigh-PalmUp

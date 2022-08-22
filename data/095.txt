@@ -1,0 +1,4 @@
+1@BasePalm-PalmDown-OpenB@CenterChesthigh-PalmUp_1@Finger-PalmDown-OpenB@CenterChesthigh-PalmUp
+1@TipFinger-PalmBack-1@CenterChesthigh-FingerUp_1@BaseThumb-PalmBack-1@CenterChesthigh-FingerUp
+BentB@IpsiChest-PalmBack-BentB@IpsiChest-PalmBack_BentB@IpsiChest-PalmUp-BentB@IpsiChest-PalmUp
+OpenB@Chin-PalmBack-OpenB@CenterChesthigh-PalmUp_OpenB@Palm-PalmUp-OpenB@CenterChesthigh-PalmUp

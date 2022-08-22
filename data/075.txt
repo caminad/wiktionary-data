@@ -1,0 +1,5 @@
+BentB@BackHand-PalmBack-BentB@NearMouth-PalmBack_BentB@BackHand-BentB@Mouth
+Claw5@SideTrunkhigh-PalmUp-Claw5@SideTrunkhigh-PalmUp_Sidetoside-Sidetoside
+if_it_looks,_swims,_walks_and_quacks_like_a_duck,_then_it's_probably_a_duck
+man_kan_tvinge_hesten_til_truget,_men_man_kan_ikke_tvinge_den_til_at_drikke
+methionylglutaminylarginyltyrosylglutamylserylleucylphenylalanylal...serine

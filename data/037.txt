@@ -20,6 +20,7 @@ Gesellschaft_mit_beschränkter_Haftung
 Heracleum_sphondylium_var._nipponicum
 I_couldn't_have_said_it_better_myself
 Iar-Phoblacht_Iúgslavach_na_Macadóine
+Independent_State_of_Papua_New_Guinea
 Internationaalt_Phoneetescht_Alphabet
 International_Telecommunication_Union
 Internationalem_Phonetischem_Alphabet
@@ -38,6 +39,7 @@ Merry_Christmas_and_a_Happy_New_Year!
 Merry_Christmas_and_a_happy_New_Year!
 Mücken_seihen_und_Kamele_verschlucken
 North_Atlantic_Terrorist_Organization
+Náátsʼózídę́ę́ʼ_mósíłchíiʼii_ałchinígíí
 Pack_schlägt_sich,_Pack_verträgt_sich
 Pan_Bóg_nierychliwy,_ale_sprawiedliwy
 People's_Democratic_Republic_of_Yemen
@@ -58,6 +60,7 @@ Unsupported_titles/Ancient_Greek_dish
 Unsupported_titles/Equal_greater_than
 Unsupported_titles/Greater_than_equal
 Unsupported_titles/Left_curly_bracket
+Unsupported_titles/Nine_low_line_nine
 Unsupported_titles/Old_Israeli_shekel
 Unsupported_titles/Ornate_parentheses
 Unwissenheit_schützt_vor_Strafe_nicht
@@ -82,6 +85,7 @@ apple_does_not_fall_far_from_the_tree
 as_demure_as_a_whore_at_a_christening
 as_fast_as_one's_legs_could_carry_one
 as_long_as_they_spell_your_name_right
+asked_how_high_when_someone_said_jump
 aspect-oriented_programming_languages
 ate_out_of_the_palm_of_someone's_hand
 aus_dem_gleichen_Holz_geschnitzt_sein
@@ -114,6 +118,7 @@ com_uma_mão_na_frente_e_a_outra_atrás
 comme_un_chien_dans_un_jeu_de_quilles
 conditional_probability_distributions
 couldn't_hit_the_broad_side_of_a_barn
+couldn't_organise_a_two-ticket_raffle
 count_your_chickens_before_they_hatch
 cross_a_bridge_before_one_comes_to_it
 cross_a_bridge_before_she_comes_to_it
@@ -229,6 +234,7 @@ knowing_someone_in_the_biblical_sense
 ko_drugome_jamu_kopa,_sam_u_nju_upada
 kommun-_och_finansmarknadsministrarna
 la_meilleure_défense,_c'est_l'attaque
+la_plăcinte_înainte,_la_război_înapoi
 laides_comme_les_sept_péchés_capitaux
 las_reglas_están_hechas_para_romperse
 laugh_on_the_other_side_of_one's_face
@@ -292,6 +298,7 @@ other_specified_dissociative_disorder
 parli_del_diavolo_e_spuntano_le_corna
 passer_à_travers_les_mailles_du_filet
 peace_which_passeth_all_understanding
+pervasive_arousal_withdrawal_syndrome
 photosensitive_retinal_ganglion_cells
 pick_up_what_somebody_is_putting_down
 picks_up_what_someone_is_putting_down
@@ -381,6 +388,7 @@ trust_your_friends,_but_cut_the_cards
 twoje_życzenie_jest_dla_mnie_rozkazem
 uma_imagem_vale_mais_que_mil_palavras
 un_point_fait_à_temps_en_épargne_cent
+virusi_vya_papillomavirus_ya_binadamu
 vivir_por_encima_de_sus_posibilidades
 voir_plus_loin_que_le_bout_de_son_nez
 vom_Hundertsten_ins_Tausendste_kommen
@@ -392,6 +400,7 @@ washing_one's_dirty_laundry_in_public
 wenn_man_vom_Teufel_spricht,_kommt_er
 when_one_door_shuts_another_one_opens
 where_there_is_a_will,_there_is_a_way
+will_the_real_someone_please_stand_up
 współczesny_standardowy_język_arabski
 wszędzie_dobrze,_ale_w_domu_najlepiej
 you_ain't_all_that_and_a_bag_of_chips
@@ -436,15 +445,3 @@ ze_niet_allemaal_op_een_rijtje_hebben
 جماهیری_عربی_سوسیالیستی_خلق_بزرگ_لیبی
 جمهورية_أثيوبيا_الفدرالية_الديمقراطية
 دروغ_مصلحت_آمیز_به_از_راست_فتنه_انگیز
-जाति_ना_पूछो_साधु_की;_पूछ_लीजिए_ज्ञान
-जाती_ना_पूछो_साधु_की;_पूछ_लीजिए_ज्ञान
-नमो_तस्स_भगवतो_अरहतो_सम्मासम्बुद्धस्स
-అందరూ_అందలము_యెక్కితే,_మోశేవారు_యెవరు
-అబద్ధమాడినా_గోడ_పెట్టినట్టు_వుండవలెను
-ఉన్నది_వక_కూతురు,_వూరెల్లా_అల్లుండ్లు
-కంసాలి_వద్ద_వుండవలె,_కుంపట్లో_వుండవలె
-చదువూ_లేదు,_సంధ్యా_లేదు,_సంతానం_మెండు
-చెరుకు_వుండే_చోటికి_చీమలు_తామే_వస్తవి
-జిల్లేడు_చెట్టున_పారిజాతములు_పుట్టునా
-ฉ่ำสมิหลา_สงขลา_ปัตตานี_แฟนตาซีภูเก็ต
-นโม_ตสฺส_ภควโต_อรหโต_สมฺมาสมฺพุทฺธสฺส

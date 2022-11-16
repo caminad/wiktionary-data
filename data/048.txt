@@ -1,6 +1,7 @@
 's_tric_a_bhios_cridhe_gheal_ann_an_seiche_dhonn
 4@Chin-FingerUp_RoundMidline_4@FromChin-FingerUp
 9@InsideNeckhigh-PalmDown_9@Side-Neckhigh-PalmUp
+Der_eine_isst_gern_Wurst,_der_andere_grüne_Seife
 Finanzdienstleistungsaufsichtsgebührenverordnung
 H@RadialFinger-H@CenterChesthigh_Contact_Contact
 OpenB@BackHand-PalmDown_OpenB@BackWrist-PalmDown
@@ -53,6 +54,7 @@ hvad_man_ikke_har_i_hovedet,_må_man_have_i_benen
 if_you_lie_down_with_dogs,_you_get_up_with_fleas
 it_takes_a_heap_o'_livin'_to_make_a_house_a_home
 it_takes_a_heap_of_living_to_make_a_house_a_home
+jos_on_lusikalla_annettu,_ei_voi_kauhalla_vaatia
 kast_ikke_med_sten_hvis_du_selv_bor_i_et_glashus
 keep_your_friends_close,_and_your_enemies_closer
 kto_ma_księdza_w_rodzie,_temu_bieda_nie_dobodzie
@@ -63,7 +65,6 @@ la_raison_du_plus_fort_est_toujours_la_meilleure
 le_dijo_la_sartén_al_cazo_¡aparta_que_me_tiznas!
 let_him_that_is_without_sin_cast_the_first_stone
 myöhäistä_hiiren_haukotella_kun_on_kissan_suussa
-naałniih_yichʼą́ą́h_naabaahígíí_bąąh_dahooʼaahgo
 naître_avec_une_cuillère_d'argent_dans_la_bouche
 ne_pas_regarder_plus_loin_que_le_bout_de_son_nez
 one's_elevator_doesn't_go_all_the_way_to_the_top
@@ -110,6 +111,3 @@ you_never_miss_the_water_until_the_well_runs_dry
 Հայկական_Սովետական_Սոցիալիստական_Հանրապետություն
 ինքնավար_սովետական_սոցիալիստական_հանրապետություն
 אבגיתץ-קרעשטן-נגדיכש-בטרצתג-חקבטנע-יגלפזק-שקוצית
-গণতান্ত্রিক_সমাজতান্ত্রিক_প্রজাতন্ত্রী_শ্রীলঙ্কা
-అశ్వత్థ_ప్రదక్షణము_చేసి,_కడుపు_పట్టి_చూచుకొన్నదట
-చచ్చిన_వాని_తల_తూర్పున_వుంటేనేమి,_పడమట_వుంటేనేమి

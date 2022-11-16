@@ -35,12 +35,11 @@ God_helps_those_who_help_themselves
 Gran_Revolución_Cultural_Proletaria
 Harbour_Main-Chapel's_Cove-Lakeview
 Himmel_und_Hölle_in_Bewegung_setzen
+I_could_eat_the_tail_end_of_a_skunk
 I_couldn't_of_said_it_better_myself
 International_Maritime_Organization
 International_Standards_on_Auditing
 Internationale_Phonetische_Alphabet
-Jesus_Biʼdiisxínę́ędą́ą́ʼ_Bééhániih
-Jesus_Biʼdiisyínę́ędą́ą́ʼ_Bééhániih
 Jesus_H._Christ_on_a_popsicle_stick
 Klebsiella_pneumoniae_carbapenemase
 Kollektiivinen_turvallisuusjärjestö
@@ -54,6 +53,7 @@ Mother_Thumb_and_her_four_daughters
 Nagalupad_nga_Spaghetti_nga_Mananap
 Nieuwland,_Kortland_en_'s-Graveland
 O@Side-PalmAcross_K@Side-PalmAcross
+Official_Monster_Raving_Loony_Party
 Ooljééʼ_Biyaadi_Kéyah_Dah_Ndaaʼeełí
 Open8@Chin-PalmBack_Contact_Contact
 OpenB@Chest-PalmBack_CirclesSurface
@@ -75,11 +75,13 @@ Somerleyton,_Ashby_and_Herringfleet
 Stany_Zjednoczone_Ameryki_Północnej
 Stirling_numbers_of_the_second_kind
 Suomen_Sosialidemokraattinen_Puolue
+Templatesem-pro-conj/*paʕaya-*yipʕī
 Terminal_High_Altitude_Area_Defense
 Thirkleby_High_and_Low_with_Osgodby
 Turkish_Republic_of_Northern_Cyprus
 Ukrainian_Soviet_Socialist_Republic
 Union_of_Soviet_Socialist_Republics
+United_States_of_the_Ionian_Islands
 Unsupported_titles/C_through_N_to_K
 Unsupported_titles/Colon_left_paren
 Unsupported_titles/Enclosing_colons
@@ -126,6 +128,7 @@ armastuses_ja_sõjas_on_kõik_lubatud
 asianajajan_salassapitovelvollisuus
 ask_how_high_when_someone_says_jump
 aspektorientierten_Programmierungen
+assemblée_générale_des_actionnaires
 ate_from_the_palm_of_someone's_hand
 attacher_sa_tuque_avec_de_la_broche
 auf_alten_Schiffen_lernt_man_segeln
@@ -177,6 +180,7 @@ cross_that_bridge_when_we_get_to_it
 cut_one's_cloth_to_suit_one's_purse
 cut_the_ground_from_under_your_feet
 cyclohexylmethylphosphonofluoridate
+człowiek_strzela,_Pan_Bóg_kule_nosi
 c’est_le_moins_que_l’on_puisse_dire
 dance_with_the_one_that_brought_you
 dance_with_the_one_what_brought_you
@@ -190,6 +194,7 @@ del_senno_di_poi_son_piene_le_fosse
 den_sidste_idiot_er_ikke_født_endnu
 denial_is_not_just_a_river_in_Egypt
 dictionary_on_historical_principles
+die_Katze_beißt_sich_in_den_Schwanz
 die_Radieschen_von_unten_betrachten
 die_großen_Diebe_hängen_die_kleinen
 dimmi_con_chi_vai_e_ti_dirò_chi_sei
@@ -198,6 +203,7 @@ dissosiatiivinen_identiteettihäiriö
 do_not_pass_go,_do_not_collect_$200
 do_not_pass_go,_do_not_collect_£200
 do_you_have_any_brothers_or_sisters
+doctrine_of_philosophical_necessity
 documento_de_voluntades_anticipadas
 does_Dolly_Parton_sleep_on_her_back
 don't_knock_it_till_you've_tried_it
@@ -207,6 +213,7 @@ dónde_va_Vicente?_donde_va_la_gente
 eat_from_the_palm_of_someone's_hand
 eats_an_elephant_one_bite_at_a_time
 een_appel_valt_niet_ver_van_de_boom
+ein_Esel_schilt_den_anderen_Langohr
 einen_guten_Draht_zu_jemandem_haben
 el_que_va_a_Sevilla_pierde_su_silla
 elektrik-elektronik_mühendislikleri
@@ -219,6 +226,7 @@ enterprise_application_integrations
 enzimas_conversoras_de_angiotensina
 erasable_programmable_logic_devices
 ereignisorientierten_Programmierung
+erst_die_Arbeit,_dann_das_Vergnügen
 es_faustdick_hinter_den_Ohren_haben
 es_ist_nicht_alles_Gold,_was_glänzt
 et_æble_om_dagen_holder_lægen_borte
@@ -272,6 +280,7 @@ het_kind_met_het_badwater_weggooien
 hewers_of_wood_and_drawers_of_water
 high-pressure_liquid_chromatography
 hippopotomonstrosesquipedaliophobia
+hippopotomonstrosesquipédaliophobie
 hold_one's_cards_close_to_the_chest
 hydrostatic_pressure_relief_systems
 hyvin_suunniteltu_on_puoleksi_tehty
@@ -338,6 +347,7 @@ les_bons_comptes_font_les_bons_amis
 let_one's_short_back_and_sides_down
 let_the_grass_grow_round_one's_feet
 let_the_grass_grow_under_one's_feet
+lift_oneself_up_by_one's_bootstraps
 like_a_dying_duck_in_a_thunderstorm
 live_by_the_sword,_die_by_the_sword
 llamar_al_pan,_pan,_y_al_vino,_vino
@@ -357,6 +367,7 @@ march_to_the_beat_of_one's_own_drum
 matar_dois_coelhos_com_uma_cajadada
 may_the_wind_always_be_at_your_back
 may_the_wind_be_always_at_your_back
+meervoudigepersoonlijkheidsstoornis
 mentar_la_soga_en_casa_del_ahorcado
 methinks_thou_dost_protest_too_much
 methylenetetrahydrofolate_reductase
@@ -441,6 +452,7 @@ one_cannot_break_a_twig_in_a_bundle
 one_cannot_break_sticks_in_a_bundle
 one_cannot_get_blood_out_of_a_stone
 one_cannot_tell_a_book_by_its_cover
+one_hand_can't_hold_two_watermelons
 one_must_play_the_hand_one_is_dealt
 onvoltooid_verleden_toekomende_tijd
 organic_electroluminescent_displays
@@ -489,6 +501,7 @@ ram_something_down_someone's_throat
 red-legged_golden_orb-weaver_spider
 ressembler_comme_deux_gouttes_d'eau
 ripped_a_page_out_of_someone's_book
+réchauffer_un_serpent_dans_son_sein
 réduire_à_sa_plus_simple_expression
 saber_más_que_los_ratones_colorados
 sacar_el_ascua_con_la_mano_del_gato
@@ -505,6 +518,7 @@ se_prendre_pour_le_nombril_du_monde
 seachnaíonn_súil_ní_nach_bhfeiceann
 seeing_the_forest_but_for_the_trees
 seeing_the_forest_through_the_trees
+seeing_the_trees_through_the_forest
 seeing_through_rose-colored_glasses
 seeing_through_rose_colored_glasses
 seksueel_overdraagbare_aandoeningen
@@ -584,11 +598,13 @@ twisting_around_one's_little_finger
 těžko_na_cvičišti,_lehko_na_bojišti
 uden_mad_og_drikke_duer_helten_ikke
 una_imatge_val_més_que_mil_paraules
+unterbrechungsfreie_Stromversorgung
 using_a_sledgehammer_to_crack_a_nut
 vascular_endothelial_growth_factors
 von_hinten_Lyzeum,_von_vorne_Museum
 vyhodíte_ho_dveřmi_a_vrátí_se_oknem
 walay_man_kardaba_mamunga_og_tundan
+walleye_epidermal_hyperplasia_virus
 warm_the_cockles_of_someone's_heart
 washing_one's_dirty_linen_in_public
 weakly_interacting_massive_particle
@@ -638,8 +654,6 @@ zàijiā_kào_fùmǔ,_chūwài_kào_péngyǒu
 æblet_falder_ikke_langt_fra_stammen
 æt_þearfe_man_sceal_freonda_cunnian
 łaska_pańska_na_pstrym_koniu_jeździ
-łóóʼtʼą́hí_atsiniltłʼish_ííłʼínígíí
-łį́į́ʼ_bikʼídahaznilgo_naalgeedígíí
 Всероссийская_чрезвычайная_комиссия
 Народный_комиссариат_внутренних_дел
 Отрядами_Милиции_Особого_Назначения
@@ -691,27 +705,10 @@ zàijiā_kào_fùmǔ,_chūwài_kào_péngyǒu
 яблочко_от_яблоньки_недалеко_падает
 Գերմանիայի_Դաշնային_Հանրապետություն
 միջազգային_հնչյունաբանական_այբուբեն
-אַ_רוח_אין_דײַן_טאַטנס_טאַטן_אַרײַן
-अंतर्राष्ट्रीय_ध्वन्यात्मक_वर्णमाला
-ঘর_পোড়া_গরু_সিঁদুরে_মেঘ_দেখে_ডরায়
-உங்களுக்கு_கடவுள்_நம்பிக்கை_இருக்கா
-ఆలు_గుణవంతురాలు_అయితే,_మేలు_కలుగును
-ఇంటి_పిల్లికి_పొరుగింటి_పిల్లి_తోడు
-ఏట్లో_పారే_నీళ్లు_యెవరు_తాగితే_యేమి
-గంధము_అమ్మిన_చోట_కట్టెలు_అమ్మినట్టు
-చంద్రుణ్ని_చూచి_కుక్కలు_మొరిగినట్టు
-చక్కెర_పందిట్లో_తేనెవాన_కురిశినట్టు
-చింత_లేదు,_చింత_లేకపోతే_పులుసు_లేదు
-ความวัวไม่ทันหาย_ความควายเข้ามาแทรก
-สหราชอาณาจักรบริเตนใหญ่และไอร์แลนด์
-สหราชอาณาจักรเกรตบริเตนและไอร์แลนด์
-སེན་ཊི་བིན་སེན་ཊི་དང་གི་རི་ན་ཌིན་སི
-နမောတဿ_ဘဂဝတော_အရဟတော_သမ္မာသမ္ဗုဒ္ဓဿ
 ასჯერ_გაგონილს_ერთხელ_ნანახი_ჯობიაო
 საქართველოს_დემოკრატიული_რესპუბლიკა
 ძაღლი_ახსენე_და_ჯოხი_ხელში_დაიჭირეო
 ᡩᠣᡵᡤᡳ_ᠪᠠᡳᡨᠠ_ᠪᡝ_ᡠᡥᡝᡵᡳ_ᡴᠠᡩᠠᠯᠠᡵᠠ_ᠶᠠᠮᡠᠨ
-ᨶᨾᩮᩣ_ᨲᩔ_ᨽᨣᩅᨲᩮᩣ_ᩋᩁᩉᨲᩮᩣ_ᩈᨾ᩠ᨾᩣᩈᨾᩛᩩᨴ᩠ᨵᩔ
 ⿺辶⿳穴⿲月⿱⿲幺言幺⿲長馬長刂心⿺辶⿳穴⿲月⿱⿲幺言幺⿲長馬長刂心麪
 ⿺辶⿳穴⿲月⿱⿲幺言幺⿲長馬長刂心⿺辶⿳穴⿲月⿱⿲幺言幺⿲長馬長刂心麵
 ⿺辶⿳穴⿲月⿱⿲幺言幺⿲长马长刂心⿺辶⿳穴⿲月⿱⿲幺言幺⿲长马长刂心面

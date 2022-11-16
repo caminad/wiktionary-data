@@ -38,13 +38,13 @@ Buon_Natale_e_felice_Anno_Nuovo
 Buon_Natale_e_felice_anno_nuovo
 Burlington-Plattsburgh-Montreal
 California_Channel_Island_foxes
+Carriacou_and_Petite_Martinique
 Caxtillan_nacatlaoyoh_tlaxcalli
 Charlie_Brown's_Christmas_trees
 Christmas_Island_whiptail_skink
 Christmas_comes_but_once_a_year
 Chroicocephalus_novaehollandiae
 Czechoslovak_Socialist_Republic
-Daalchííʼ_Dadikʼą́ąhnii_Bikéyah
 Democratic_Republic_of_Viet-Nam
 Democratic_Republic_of_Viet_Nam
 Den_sentralafrikanske_republikk
@@ -65,6 +65,7 @@ Feast_of_Our_Lady_of_the_Rosary
 Feast_of_the_Holy_Name_of_Jesus
 Federal_Bureau_of_Investigation
 Feliz_Natal_e_próspero_Ano_Novo
+Fergusson_Island_striped_possum
 Flüssigwasserstoffspeicherungen
 Foldy-Wouthuysen_transformation
 Foreign_and_Commonwealth_Office
@@ -89,6 +90,7 @@ International_Phonetic_Alphabet
 Islamic_Republic_of_Afghanistan
 Jamalo-Nenetskij_autonome_okrug
 Kag-Fer-Jiir-Koor-Ror-Us-Zuksun
+Karadeniz'de_gemilerin_mi_battı
 Kc@Inside-PalmForward_1o@Inside
 Kongon_demokraattinen_tasavalta
 Kongói_Demokratikus_Köztársaság
@@ -109,6 +111,7 @@ Modell-Präsentation-Steuerungen
 Montreal_Metropolitan_Community
 Mécanisme_européen_de_stabilité
 National_Auto_Sport_Association
+Naʼashǫ́ʼiitsoh_Łichííʼí_Bikéyah
 New_Delhi_metallo-β-lactamase-1
 Niederschlagswahrscheinlichkeit
 Náhookǫsjí_Hakʼaz_Dineʼé_bizaad
@@ -181,6 +184,7 @@ Waldenström's_macroglobulinemia
 Wheeler-Feynman_absorber_theory
 Wirtschaftswissenschaftlerinnen
 Wyboston,_Chawston_and_Colesden
+a_Arxel,_que_ye_tierra_caliente
 a_beau_mentir_qui_vient_de_loin
 a_cal_sabater,_sabates_de_paper
 a_cat_in_gloves_catches_no_mice
@@ -299,9 +303,11 @@ boot_is_on_the_other_other_foot
 borderline_personality_disorder
 bought_a_dog_and_barked_oneself
 boîtes_de_vitesses_automatiques
+bredzić_jak_Piekarski_na_mękach
 brillare_per_la_propria_assenza
 brings_one's_own_hide_to_market
 buon_Natale_e_felice_anno_nuovo
+burn_a_hole_in_someone's_pocket
 burning_the_candle_at_both_ends
 busta_primo_giorno_di_emissione
 buste_primo_giorno_di_emissione
@@ -309,6 +315,8 @@ bygg-_och_anläggningsprogrammet
 bé_bằng_củ_khoai,_cứ_vai_mà_gọi
 béésh_bee_akʼeʼelchí_áłtsisígíí
 béésh_łichíiʼii_bee_dahaniʼígíí
+bíchį́į́h_yee_adilohii_ditłʼoígíí
+bízi_bùshì_bízi_liǎn_bùshì_liǎn
 cada_uno_tiene_lo_que_se_merece
 called_a_spade_a_fucking_shovel
 calling_a_spade_a_bloody_shovel
@@ -342,6 +350,7 @@ claires_comme_de_l'eau_de_roche
 close_only_counts_in_horseshoes
 cluster_B_personality_disorders
 clutchless_manual_transmissions
+coefficient_of_nondetermination
 cognitive_behavioral_therapists
 cognitive_behavioural_therapies
 cognitive_behavioural_therapist
@@ -413,6 +422,7 @@ doctrine_of_foreign_equivalents
 does_the_Pope_shit_in_the_woods
 don't_be_a_fool,_wrap_your_tool
 don't_do_anything_I_wouldn't_do
+don't_fish_off_the_company_dock
 don't_get_your_shorts_in_a_knot
 don't_judge_a_book_by_its_cover
 don't_spend_it_all_in_one_place
@@ -431,6 +441,8 @@ eating,_breathing,_and_sleeping
 ecuación_en_derivadas_parciales
 een_appeltje_te_schillen_hebben
 een_sprong_in_het_duister_maken
+een_zwaluw_maakt_nog_geen_lente
+een_zwaluw_maakt_nog_geen_zomer
 egyszerű_harmonikus_rezgőmozgás
 ei_kukaan_ole_seppä_syntyessään
 ein_Unglück_kommt_selten_allein
@@ -496,6 +508,7 @@ get_one's_head_out_of_one's_ass
 get_someone's_nose_out_of_joint
 get_the_bit_between_one's_teeth
 get_up_on_the_wrong_side_of_bed
+gets_one's_panties_in_a_pretzel
 getting_on_like_a_house_on_fire
 getting_one's_tits_in_a_wringer
 giprito_sa_kaugalingong_mantika
@@ -544,6 +557,7 @@ have_someone's_guts_for_garters
 have_someone_by_the_short_hairs
 have_the_world_by_the_testicles
 have_too_many_irons_in_the_fire
+having_Van_Gogh's_ear_for_music
 having_his_fingers_on_the_pulse
 having_one's_cake_and_eating_it
 hell_of_a_way_to_run_a_railroad
@@ -690,6 +704,7 @@ make_a_stick_for_one's_own_back
 make_an_honest_woman_of_someone
 make_an_honest_woman_out_of_her
 makes_the_best_of_a_bad_bargain
+making_beautiful_music_together
 making_someone's_blood_run_cold
 mal_de_moitos,_consolo_de_todos
 man_skal_kravle,_før_man_kan_gå
@@ -710,8 +725,10 @@ misdaden_tegen_de_menselijkheid
 mismo_perro_con_distinto_collar
 missed_the_forest_for_the_trees
 misses_the_forest_for_the_trees
+missing_the_woods_for_the_trees
 mobile_elevating_work_platforms
 mobile_virtual_network_operator
+money_makes_the_world_go_around
 more_than_one_had_bargained_for
 more_than_one_way_to_skin_a_cat
 more_than_someone_bargained_for
@@ -725,8 +742,8 @@ músculos_auriculares_anteriores
 músculos_auriculares_superiores
 một_giọt_máu_đào_hơn_ao_nước_lã
 na_každém_šprochu_pravdy_trochu
+naaki_góneʼ_yéigo_daʼahijoogą́ą́ʼ
 naalʼeełí_bitsiitʼáád_łigaaígíí
-naałniih_yichʼą́ą́h_naabaahígíí
 nadakpan_na_ba_ang_nagtupi_nimo
 nails_one's_colours_to_the_mast
 naked_as_the_day_they_were_born
@@ -734,6 +751,7 @@ nang_anhte_hpe_tsun_dan_lu_na_i
 natural_language_understandings
 nautilite_triangulaire_du_Havre
 naʼashjéʼii_bijéí_dah_łichíiʼii
+naʼashǫ́ʼii_łahgo_aníʼdoolníiłii
 ne_connaître_ni_d'Ève_ni_d'Adam
 ne_connaître_ni_d’Ève_ni_d’Adam
 ne_keltsd_fel_az_alvó_oroszlánt
@@ -774,6 +792,7 @@ nikamavälilevyn_esiinluiskahdus
 nito_o_ou_mono_wa_itto_o_mo_ezu
 no_matter_how_thin_you_slice_it
 noch_grün_hinter_den_Ohren_sein
+nolite_te_bastardes_carborundum
 non_saper_dove_battere_la_testa
 non_saper_dove_sbattere_il_capo
 non_sapere_dove_battere_il_capo
@@ -781,6 +800,7 @@ non_stuzzicare_il_can_che_dorme
 not_backwards_in_coming_forward
 not_be_100_percent_on_something
 not_have_both_oars_in_the_water
+not_see_the_woods_for_the_trees
 nul_n'a_bien_s'il_ne_le_compère
 náshdóítsoh_bitsiijįʼ_diʼilígíí
 obična_diferencijalna_jednadžba
@@ -826,6 +846,9 @@ physically_unclonable_functions
 physikalische_organische_Chemie
 pick_up_what_somebody_puts_down
 picture_paints_a_thousand_words
+pissed_like_a_Russian_racehorse
+pisses_like_a_Russian_racehorse
+pissing_in_someone's_cornflakes
 pistolet_à_impulsion_électrique
 plain_as_the_nose_on_one's_face
 play_someone_like_a_bass_fiddle
@@ -931,7 +954,6 @@ shareholders'_derivative_action
 shoot_through_like_a_Bondi_tram
 sick_to_our_respective_stomachs
 siedzieć_okrakiem_na_barykadzie
-siláołtsooí_danilį́į́_ńtʼę́ʼę́ę
 simian_immunodeficiency_viruses
 sing_out_of_the_same_hymn_sheet
 sing_out_of_the_same_song_sheet
@@ -1023,6 +1045,7 @@ tirarse_los_trastos_a_la_cabeza
 to_the_victor_belong_the_spoils
 todos_los_caminos_llevan_a_Roma
 togliersi_un_peso_dallo_stomaco
+tomarse_la_justicia_por_su_mano
 tomber_dans_les_bras_de_Morphée
 tonari_no_shibafu_wa_aoku_mieru
 toss_somebody's_name_in_the_hat
@@ -1052,6 +1075,7 @@ umgekehrt_wird_ein_Schuh_daraus
 un_malheur_ne_vient_jamais_seul
 undress_someone_with_one's_eyes
 unha_vez_vello,_dúas_veces_neno
+uo_kokoro_areba_mizu_kokoro_ari
 up_your_nose_with_a_rubber_hose
 utrikesråd_för_politiska_frågor
 uygulama_programlama_arayüzleri
@@ -1095,6 +1119,7 @@ worshiped_the_porcelain_goddess
 wrap_around_one's_little_finger
 written_all_over_someone's_face
 written_statement_of_employment
+wychodzić_jak_Zabłocki_na_mydle
 yc_macuilli_metztli_yn_cexiuitl
 you_cannot_keep_a_good_man_down
 you_have_to_be_good_to_be_lucky
@@ -1108,6 +1133,7 @@ zincirleme_isim_tamlamalarından
 Öffentlicher_Personennahverkehr
 à_ne_pas_mettre_un_chien_dehors
 à_quelque_chose_malheur_est_bon
+áłtsé_góneʼ_yéigo_daʼahijoogą́ą́ʼ
 äldre-_och_folkhälsoministrarna
 é_mais_fácil_dizer_do_que_fazer
 é_mais_fácil_falar_do_que_fazer
@@ -1120,7 +1146,6 @@ zincirleme_isim_tamlamalarından
 öffentlicher_Personennahverkehr
 Čhaŋksáyuhá_kiŋ_wičhákiyuȟla_yo
 İngilizce_konuşabiliyor_musunuz
-łeetsoh_bee_atsiniltłʼish_álʼį́
 Şam_şekir_e_lê_welat_şirîntir_e
 štěstí_ve_hře,_neštěstí_v_lásce
 Ηνωμένες_Πολιτείες_της_Αμερικής
@@ -1131,6 +1156,7 @@ zincirleme_isim_tamlamalarından
 εταιρείες_περιορισμένης_ευθύνης
 η_Ρώμη_δεν_χτίστηκε_σε_μια_μέρα
 όλοι_οι_δρόμοι_οδηγούν_στη_Ρώμη
+Белорусская_Народная_Республика
 Південно-Африканська_Республіка
 Федеральная_служба_безопасности
 административно-территориальный
@@ -1192,7 +1218,9 @@ zincirleme_isim_tamlamalarından
 неисчисляемыми_существительными
 неопознанного_летающего_объекта
 неопознанному_летающему_объекту
+нислэгийн_хөдөлгөөний_удирдлага
 однорядными_роликовыми_коньками
+первая_ласточка_весны_не_делает
 периодическая_система_элементов
 периодические_системы_элементов
 периодической_системе_элементов
@@ -1231,24 +1259,18 @@ zincirleme_isim_tamlamalarından
 Իրանի_Իսլամական_Հանրապետություն
 Լեռնային_Ղարաբաղի_Ինքնավար_Մարզ
 Միացյալ_ազգերի_կազմակերպություն
-אַ_לונג_און_לעבער_אויף_דער_נאָז
 הדרך_לגיהנום_רצופה_כוונות_טובות
 טוב_ציפור_אחת_ביד_משתיים_על_העץ
 از_دل_برود_هر_آنکه_از_دیده_برفت
 از_دل_نرود_هر_آنکه_از_دیده_برفت
-لا_إله_إلا_الله_محمّد_رسول_الله
+لا_إله_إلا_الله_محمدًا_رسول_الله
 پندار_نیک،_گفتار_نیک،_کردار_نیک
-अंतर्राष्ट्रीय_ध्वन्यात्मक_लिपि
-అభిషేకం_చేశిన_అగ్నివలె_వున్నాడు
-కుమ్మర_వీధిలో_కుండలు_అమ్మినట్టు
-กฎหมายระหว่างประเทศแผนกคดีบุคคล
-กฎหมายระหว่างประเทศแผนกคดีเมือง
-ตีเหล็กเมื่อแดง_กินแกงเมื่อร้อน
-เข้าเมืองตาหลิ่ว_ต้องหลิ่วตาตาม
-เสร็จนาฆ่าโคถึกเสร็จศึกฆ่าขุนพล
-เสือสองตัวอยู่ถ้ำเดียวกันไม่ได้
-ཡི་ནེ་ཁྲེ་ཀྲི་ཨ་རབ་ཨེ་མེ་རེ་ཁྲི
-မြိန်ရာဟင်းကောင်း_ခင်ရာဆွေမျိုး
+ఇచ్చేటప్పుడు_కాముని_పండగ,_పుచ్చుకొనేటప్పుడు_దీపావళి_పండగ
+ఇచ్చేటప్పుడు_కాముని_పండుగ,_పుచ్చుకొనేటప్పుడు_దీపావళి_పండుగ
+ఇరుసుకు_కందెన_పెట్టక,_పరమేశ్వరుని_బండి_అయినా_పారదు
+గుడ్డివాడికి_గుడ్డివాడు_దారి_చూపితే,_యిద్దరూ_గోతిలో_పడతారు
+ความวัวไม่ทันหาย_ความควายเข้ามาแทรก
+นโม_ตสฺส_ภควโต_อรหโต_สมฺมาสมฺพุทฺธสฺส
+สหราชอาณาจักรเกรตบริเตนและไอร์แลนด์
 არაბთა_გაერთიანებული_საამიროები
 მიკრონეზიის_ფედერაციული_შტატები
-កុំដេកចាំស្លាប់_កុំអង្គុយចាំមាន

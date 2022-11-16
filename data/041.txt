@@ -4,6 +4,8 @@
 5@Chest-PalmBack_FlatO@NearChest-PalmBack
 A_caballo_regalado_no_le_mires_el_diente.
 Biʼééʼ_Łichííʼí_Bikéyah_Ałhidadiidzooígíí
+Chį́į́h_Yee_Adilohii_Nahatʼá_Bee_Dah_Ooldah
+Chʼah_diʼilii_bikéyahdę́ę́ʼ_mósí_ałchinígíí
 Dearbhú_Uilechoiteann_um_Chearta_an_Duine
 Democratic_Republic_of_the_Congo-Kinshasa
 Dienst_ist_Dienst_und_Schnaps_ist_Schnaps
@@ -22,6 +24,7 @@ Soveed_Socialiis_Respyyʙlikenyydei_Sojuuz
 St._Vincent's-St._Stephen's-Peter's_River
 Supplemental_Nutrition_Assistance_Program
 The_former_Yugoslav_Republic_of_Macedonia
+Tó_Wónaanídę́ę́ʼ_Bitsįʼ_Yishtłizhii_Bikéyah
 Uniunea_Republicilor_Sovietice_Socialiste
 Unsupported_titles/Enclosing_number_signs
 Unsupported_titles/HTML_start_tag_end_tag
@@ -133,8 +136,6 @@ megszentségteleníthetetlenségeskedéseitek
 mit_jemandem_ist_nicht_gut_Kirschen_essen
 muita_lihaan_verrattavia_valmistusaineita
 na_terra_dos_cegos_quem_tem_um_olho_é_rei
-naadoobooʼíinii_bíchį́į́h_sǫʼ_nahalinígíí
-naʼashǫ́ʼii_łóóʼ_atsiniltłʼish_ííłʼínígíí
 ne_pas_avoir_un_mot_plus_haut_que_l'autre
 ne_pas_y_aller_avec_le_dos_de_la_cuillère
 neither_fish,_flesh,_nor_good_red_herring
@@ -143,7 +144,6 @@ nie_pchaj_się_na_afisz,_jak_nie_potrafisz
 not_that_there's_anything_wrong_with_that
 obsessive-compulsive_personality_disorder
 on_the_Internet_nobody_knows_you're_a_dog
-once_you_go_black,_we_don't_want_you_back
 one's_eyes_were_bigger_than_one's_stomach
 one's_eyes_were_bigger_than_their_stomach
 one_cannot_have_one's_cake_and_eat_it_too
@@ -240,11 +240,6 @@ złej_baletnicy_przeszkadza_rąbek_spódnicy
 тартрата_диэтиламида_лизергиновой_кислоты
 тартрате_диэтиламида_лизергиновой_кислоты
 тартрату_диэтиламида_лизергиновой_кислоты
-ఎద్దు_వలె_తిని_మొద్దు_వలె_నిద్ర_పోయినట్టు
-ఎలుక_యెంత_యేడ్చినా,_పిల్లి_తన_పట్టు_వదలదు
-ఎలుక_యేట్లో_పోతేనేమి,_పులి_బోనున_పోతేనేమి
-ఏనుగ_మదిస్తే_నెత్తిన_మన్ను_వేసుకొంటున్నది
-కరువున_కడుపు_కాల్చినమ్మను_యెన్నటికీ_మరవను
-గాలి_వచ్చినప్పుడుగదా_తూర్పార_పట్టుకోవలెను
-เล่นกับหมาหมาเลียปาก_เล่นกับสากสากต่อยหัว
-ခွေးလိမ္မာအမြီးကုပ်၊_ကျွန်လိမ္မာနောက်ဆုတ်
+గోరు_వాస్తే_వేలంత,_వేలు_వాస్తే_కాలంత,_కాలు_వాస్తే_రోలంత,_రోలు_వాస్తే_యెంత
+นะโม_ตัสสะ_ภะคะวะโต_อะระหะโต_สัมมา_สัมพุทธัสสะ
+ไม่ได้ด้วยเล่ห์ก็เอาด้วยกล_ไม่ได้ด้วยมนต์ก็เอาด้วยคาถา

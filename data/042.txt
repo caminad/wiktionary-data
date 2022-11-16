@@ -1,5 +1,4 @@
 1@Nose-FingerBack_1@FromNose-FingerForward
-Chį́į́h_Yee_Adilohii_Bideeʼ_Tónteel_Bibąąh
 Consiglio_di_Sicurezza_delle_Nazioni_Unite
 Consiglio_di_sicurezza_delle_Nazioni_Unite
 Cooperação_Económica_da_Ásia_e_do_Pacífico
@@ -25,6 +24,7 @@ République_populaire_démocratique_de_Corée
 Savez_Sovjetskih_Socijalističkih_Republika
 Sosialististen_neuvostotasavaltojen_liitto
 Sovet_Sotsialistik_Respublikalari_Ittifoqi
+Sozialistische_Einheitspartei_Deutschlands
 Standardmodell_der_Elementarteilchenphysik
 The_2000_South_Korean_Revised_Romanization
 Union_der_Sozialistischen_Sowjetrepubliken
@@ -44,6 +44,7 @@ always_dance_with_the_one_that_brought_you
 amilyen_az_adjonisten,_olyan_a_fogadjisten
 ao_minguar_a_lua,_não_comeces_coisa_alguma
 apple_does_not_fall_very_far_from_the_tree
+as_demure_as_an_old_whore_at_a_christening
 as_if_butter_would_not_melt_in_one's_mouth
 ask_a_stupid_question,_get_a_stupid_answer
 aus_seinem_Herzen_keine_Mördergrube_machen
@@ -134,8 +135,10 @@ no_por_mucho_madrugar_amanece_más_temprano
 no_vendas_la_piel_del_oso_antes_de_cazarlo
 når_katten_er_ude,_danser_musene_på_bordet
 nắm_thằng_có_tóc,_không_ai_nắm_kẻ_trọc_đầu
+obsessive-compulsive_personality_disorders
 one_can't_hold_two_watermelons_in_one_hand
 one_can't_make_a_silk_purse_of_a_sow's_ear
+one_can_dish_it_out,_but_one_can't_take_it
 one_may_as_well_hang_for_a_sheep_as_a_lamb
 papular_purpuric_gloves_and_socks_syndrome
 perpetual_motion_machine_of_the_first_kind
@@ -172,6 +175,7 @@ uneasy_lies_in_the_head_that_wears_a_crown
 varme-,_ventilasjons-_og_sanitærteknikkane
 we'll_cross_that_bridge_when_we_come_to_it
 welcome-home-husband-though-never-so-drunk
+wenn_man_vom_Teufel_spricht,_dann_kommt_er
 what_happens_on_the_road_stays_on_the_road
 why_buy_a_book_when_you_can_join_a_library
 with_friends_like_these,_who_needs_enemies
@@ -206,13 +210,8 @@ złej_tanecznicy_przeszkadza_rąbek_spódnicy
 страдательных_причастий_прошедшего_времени
 тартратом_диэтиламида_лизергиновой_кислоты
 սահմանափակ_պատասխանատվությամբ_ընկերություն
+אין_אַ_שיינעם_עפּל_געפֿינט_מען_אַ_מאָל_אַ_וואָרעם
 باسم_الآب_والابن_والروح_القدس_الإله_الواحد
 باسم_الأب_والابن_والروح_القدس_الإله_الواحد
-एक_गंदी_मछली_पूरे_तालाब_को_गंदा_कर_देती_है
-అన్నము_పెట్టినవారిల్లు_కన్నము_పెట్టవచ్చునా
-ఇల్లు_కాలినా_యిల్లాలు_చచ్చినా_గొల్లు_మానదు
-ఈ_నెలలో_వడ్డీ_లేదు,_వచ్చే_నెలలో_మొదలూ_లేదు
-ఎముకలేని_నాలుక_యెట్లా_తిప్పినా_తిరుగుతుంది
-ความพยายามอยู่ที่ไหน_ความสำเร็จอยู่ที่นั่น
-สามีเป็นช้างเท้าหน้า_ภรรยาเป็นช้างเท้าหลัง
+ไม่ได้ด้วยเล่ห์ก็เอาด้วยกล_ไม่ได้ด้วยมนตร์ก็เอาด้วยคาถา
 საბჭოთა_სოციალისტური_რესპუბლიკების_კავშირი

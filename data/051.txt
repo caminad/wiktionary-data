@@ -8,7 +8,6 @@ Royaume-Uni_de_Grande-Bretagne_et_d'Irlande_du_Nord
 Royaume-Uni_de_Grande-Bretagne_et_d’Irlande_du_Nord
 Unsupported_titles/Enclosing_less_than_greater_than
 Unsupported_titles/Square_bracketed_citation_needed
-aequeosalinocalcalinoceraceoaluminoscupreovitriolic
 better_to_light_a_candle_than_to_curse_the_darkness
 blaze_tomu,_kdo_nic_nemá,_nestará_se,_kam_to_schová
 c'est_dans_le_besoin_qu'on_reconnaît_ses_vrais_amis
@@ -18,6 +17,7 @@ den_som_gapar_efter_mycket_mister_ofta_hela_stycket
 den_som_gapar_efter_mycket_tappar_ofta_hela_stycket
 don't_drive_faster_than_your_guardian_angel_can_fly
 drain_the_swamp_when_up_to_one's_neck_in_alligators
+en_la_mucha_necesidad,_se_conoce_al_amigo_de_verdad
 en_tiempos_de_guerra_cualquier_agujero_es_trinchera
 extraordinary_claims_require_extraordinary_evidence
 great-great-great-great-great-great-great-grandsons
@@ -56,6 +56,7 @@ throw_enough_mud_at_the_wall,_some_of_it_will_stick
 transtorno_do_déficit_de_atenção_com_hiperatividade
 vidjela_žaba_gdje_se_konji_kuju_pa_i_ona_digla_nogu
 wat_baten_kaars_en_bril_als_de_uil_niet_zien_en_wil
+wenn_man_vom_Teufel_spricht,_dann_ist_er_nicht_weit
 what_is_sauce_for_the_goose_is_sauce_for_the_gander
 you_can't_live_with_'em,_you_can't_live_without_'em
 У_каждого_свой_вкус_—_кто_любит_дыню,_а_кто_—_арбуз
@@ -64,7 +65,3 @@ you_can't_live_with_'em,_you_can't_live_without_'em
 у_каждого_свой_вкус_—_кто_любит_дыню,_а_кто_—_арбуз
 Հավաքական_անվտանգության_պայմանագրի_կազմակերպություն
 ճանաչել_զիմաստութիւն_և_զխրատ,_իմանալ_զբանս_հանճարոյ
-అందరికీ_శకునము_చెప్పే_బల్లి_కుడితితోట్టెలో_పడ్డట్టు
-ఆచార్యునికి_ద్రోహము_చేశినా,_ఆత్మకు_ద్రోహం_చెయ్యరాదు
-ఆవగింజ_అట్టె_దాచి_గుమ్మడి_కాయ_గుల్లకాసుగా_యెంచేవాడు
-రౌతు_మెత్తనైతే_గుర్రం_మూడు_కాళ్ళ_మీద_పరిగెత్తుతుంది

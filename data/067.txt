@@ -3,6 +3,7 @@ Ang_barko_ang_moduol_sa_pantalan,_dili_ang_pantalan_moduol_sa_barko
 B@RadialWrist-PalmForward-OpenB@CenterChesthigh-PalmDown_Sidetoside
 Claw@NearInsideChesthigh-PalmBack-Claw@NearInsideChesthigh-PalmBack
 FlatO@NearSfhead-FlatO@NearSfhead_FlatO@FromSfhead-FlatO@FromSfhead
+Grundstücksverkehrsgenehmigungszuständigkeitsübertragungsverordnung
 H@SideSternumhigh-PalmBackFingerUp_H@SideMouthhigh-PalmBackFingerUp
 OpenA@SideChesthigh-PalmAcross_OpenA@DistalSideChesthigh-PalmAcross
 OpenB@Chest-PalmBack-OpenB@Trunk-PalmBack_RoundSurface-RoundSurface

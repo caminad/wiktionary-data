@@ -3,6 +3,7 @@ Antigua_República_Yugoslava_de_Macedonia
 Apollo_lunar_surface_experiments_package
 Associação_de_Nações_do_Sudeste_Asiático
 C@NearMouth-TipForward_C@NearMouth-TipUp
+Chį́į́h_Yee_Adilohii_Bideeʼ_Tónteel_Bibąąh
 Céad_Litir_Naomh_Pól_chuig_na_Corantaigh
 Dadra_and_Nagar_Haveli_and_Daman_and_Diu
 Daon-Phoblacht_Dhaonlathach_na_hAilgéire
@@ -14,6 +15,7 @@ Jooł_Yitalíjí_Akéeʼdi_Ahąąh_Honinééhígíí
 Koreańska_Republika_Ludowo-Demokratyczna
 Maligayang_Pasko_at_Manigong_Bagong_Taon
 Mayer-Rokitansky-Küster-Hauser_syndromes
+National_Socialist_German_Workers'_Party
 Nollaig_Chridheil_agus_Bliadhna_Mhath_Ùr
 Nánsīlāfū_Shèhuìzhǔyì_Liánbāng_Gònghéguó
 Níl_aon_tóin_tinn_mar_do_thóin_tinn_féin
@@ -42,10 +44,12 @@ a_casa_d'un_penjat_no_hi_anomenis_cordes
 a_creaking_door_hangs_long_on_its_hinges
 a_girl's_gotta_do_what_a_girl's_gotta_do
 a_horse,_a_horse,_my_kingdom_for_a_horse
+a_nod's_as_good_as_a_wink_to_a_blind_bat
 a_smooth_sea_never_made_a_skilled_sailor
 antes_se_coge_al_mentiroso_que_a_un_cojo
 any_day_of_the_week_and_twice_on_Sundays
 apple_never_falls_very_far_from_the_tree
+ask_a_silly_question,_get_a_silly_answer
 attention-deficit_hyperactivity_disorder
 attention_deficit_hyperactivity_disorder
 avere_gli_occhi_più_grandi_dello_stomaco
@@ -100,7 +104,9 @@ gdzie_kucharek_sześć,_tam_nie_ma_co_jeść
 gravmonumentsindustrifabrikationsprodukt
 great-great-great-great-great-grandchild
 great_great_great_great_great_grandchild
+had_more_chins_than_a_Chinese_phone_book
 hai_voluto_la_bicicletta_e_adesso_pedala
+has_more_chins_than_a_Chinese_phone_book
 have_more_chins_than_a_Chinese_phonebook
 have_one's_head_screwed_on_the_right_way
 hellere_lille_og_vågen_end_stor_og_doven
@@ -121,6 +127,7 @@ interfaces_de_programação_de_aplicativos
 is_fheàrr_deagh-eòlas_na_droch-chàirdeas
 it's_an_ill_bird_that_fouls_its_own_nest
 it's_not_what_you_know,_but_who_you_know
+it's_not_what_you_say_but_how_you_say_it
 it_ain't_what_you_know,_but_who_you_know
 it_is_easy_to_find_a_stick_to_beat_a_dog
 it_is_not_what_you_know_but_who_you_know
@@ -163,7 +170,7 @@ monimuotoinen_alueellinen_kipuoireyhtymä
 muchas_manos_en_un_plato_causan_arrebato
 mudam-se_os_tempos,_mudam-se_os_costumes
 na_Nowy_Rok_przybywa_dnia_na_barani_skok
-naaʼahóóhai_bikʼǫ́ǫ́ʼ_éí_haitʼáo_nínízin
+naʼashǫ́ʼii_łóóʼ_atsiniltłʼish_ííłʼínígíí
 nebeprisikiškiakopūsteliaudavusiuosiuose
 nebeprisikiškiakopūsteliausiančiuosiuose
 neither_fish,_flesh_nor_good_red_herring
@@ -202,6 +209,7 @@ put_daylight_between_oneself_and_someone
 putting_one's_money_where_one's_mouth_is
 quand_il_n'y_en_a_plus,_il_y_en_a_encore
 quem_vive_pela_espada,_morre_pela_espada
+raise_oneself_up_by_one's_own_bootstraps
 rearrange_the_deck_chairs_on_the_Titanic
 ribulosebisphosphatecarboxylaseoxygenase
 ripping_a_page_out_of_someone's_playbook
@@ -248,8 +256,6 @@ took_a_flying_fuck_at_a_rolling_doughnut
 transtornos_de_personalidade_antissocial
 trust_everybody,_but_always_cut_the_deck
 trust_everyone,_but_always_cut_the_cards
-tó_wónaanídę́ę́ʼ_naalʼeełítsoh_łibáhígíí
-tóshjeeh_binaago_łį́į́ʼ_náádadiilwoʼígíí
 törkeä_lapsen_seksuaalinen_hyväksikäyttö
 uma_imagem_vale_mais_do_que_mil_palavras
 unable_to_X_one's_way_out_of_a_paper_bag
@@ -292,9 +298,5 @@ złej_tanecznicy_zawadza_rąbek_u_spódnicy
 царские_милости_в_боярское_решето_сеются
 խորհրդային_սոցիալիստական_հանրապետություն
 בשלושה_דברים_אדם_ניכר_בכוסו_בכיסו_ובכעסו
-أکِس_دَزان_دٲر_تہٕ_بیٛاکھ_وُشناوان_اَتھٕ
 تق_تاهو_مناري_دکاتاکن_لنتاي_جوڠکڠ-جوڠکيت
-అన్ని_రుచులూ_సరేగాని,_అందులో_వుప్పు_లేదు
-ఆవుల_సాధుత్వమూ,_బ్రాహ్మణుల_పేదరికమూ_లేదు
-గురికి_జానెడు_యెచ్చు_తక్కువగా_కాల్చేవాడు
-สหราชอาณาจักรบริเตนใหญ่และไอร์แลนด์เหนือ
+เอามะพร้าวห้าวไปขายสวน_เอาแป้งนวลไปขายชาววัง

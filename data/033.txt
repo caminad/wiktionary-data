@@ -51,8 +51,8 @@ Naashchʼąąʼ_Bidiyogíihnii_Bikéyah
 Niederschlagswahrscheinlichkeiten
 Niemiecka_Republika_Demokratyczna
 North_American_freshwater_catfish
+North_Leverton_with_Habblesthorpe
 Náhookǫsjí_Nahatʼeʼiitsoh_Bikéyah
-Náátsʼózídę́ę́ʼ_naaʼahóóhaitʼą́ʼí
 OpenB@Chest-PalmBack_RoundSurface
 OpenB@TrunkHigh-PalmUp_RoundHoriz
 Oploo,_Sint_Anthonis_en_Ledeacker
@@ -82,6 +82,7 @@ Softwarekonfigurationsmanagements
 Sovereign_Military_Order_of_Malta
 Speicherprogrammierbare_Steuerung
 Stațiunea_Zoologică_Marină_Agigea
+Taiwan,_Penghu,_Kinmen,_and_Matsu
 Território_da_Capital_Australiana
 The_Lord_works_in_mysterious_ways
 Turkmen_Soviet_Socialist_Republic
@@ -170,6 +171,7 @@ bicker_like_an_old_married_couple
 bien_mal_acquis_ne_profite_jamais
 big_things_come_in_small_packages
 birds_of_a_feather_flock_together
+bisphosphonate_osteochemonecrosis
 bisóodi_bitsįʼ_niheeshchʼiizhígíí
 biting_off_more_than_one_can_chew
 bovine_infectious_petechial_fever
@@ -182,12 +184,12 @@ buscarle_las_cosquillas_a_alguien
 butter_wouldn't_melt_in_his_mouth
 butters_one's_bread_on_both_sides
 by_any_stretch_of_the_imagination
-bíchį́į́h_yee_adilohii_ditłʼoígíí
 cacher_la_poussière_sous_le_tapis
 cada_maestrillo_tiene_su_librillo
 caer_como_un_baldado_de_agua_fría
 calul_de_dar_nu_se_caută_la_dinți
 camel_through_the_eye_of_a_needle
+can't_see_the_woods_for_the_trees
 cannot_see_the_wood_for_the_trees
 canonical_conjunctive_normal_form
 canonical_disjunctive_normal_form
@@ -335,6 +337,7 @@ globális_helymeghatározó_rendszer
 go_over_as_well_as_a_lead_balloon
 goes_down_like_a_cup_of_cold_sick
 gone_down_like_a_cup_of_cold_sick
+gotten_one's_panties_in_a_pretzel
 great-great-great-great-grandsons
 great_great_great_great_grandsons
 greatest_thing_since_sliced_bread
@@ -361,6 +364,8 @@ he_who_laughs_last_laughs_hardest
 het_geld_groeit_me_niet_op_de_rug
 het_kan_vriezen_en_het_kan_dooien
 het_paard_achter_de_wagen_spannen
+hidden_one's_light_under_a_bushel
+hiding_one's_light_under_a_bushel
 high-frequency_gravitational_wave
 high-intensity_interval_trainings
 high_anion_gap_metabolic_acidoses
@@ -405,6 +410,8 @@ it's_better_to_be_safe_than_sorry
 it_will_be_all_right_on_the_night
 jack_of_all_trades_master_of_none
 jaettu_ilo_on_kaksinkertainen_ilo
+je_cosi_shnilého_ve_státě_dánském
+je_něco_shnilého_ve_státě_dánském
 ju_fler_kockar,_desto_sämre_soppa
 ju_fler_kockar_destor_sämre_soppa
 judge_not,_that_you_be_not_judged
@@ -434,6 +441,7 @@ lahjahevosen_suuhun_ei_saa_katsoa
 laissai_ailai_le_chait_é_formaige
 land_with_one's_bum_in_the_butter
 lapsen_seksuaalinen_hyväksikäyttö
+law_of_the_Medes_and_the_Persians
 le_chat_parti,_les_souris_dansent
 le_jeu_n'en_vaut_pas_la_chandelle
 le_jeu_n’en_vaut_pas_la_chandelle
@@ -454,6 +462,7 @@ like_one_needs_a_hole_in_the_head
 like_ships_that_pass_in_the_night
 like_the_sound_of_one's_own_voice
 like_turkeys_voting_for_Christmas
+lions_and_tigers_and_bears,_oh_my
 lithium-drifted_silicon_detectors
 lived_rent-free_in_someone's_head
 lived_rent_free_in_someone's_head
@@ -473,6 +482,7 @@ mal_de_muchos,_consuelo_de_tontos
 man_hat_schon_Pferde_kotzen_sehen
 man_shall_not_live_by_bread_alone
 maquillée_comme_une_voiture_volée
+mariage_pluvieux,_mariage_heureux
 marry_in_haste,_repent_at_leisure
 massively_multiplayer_online_game
 may_you_live_in_interesting_times
@@ -501,7 +511,6 @@ más_lento_que_el_caballo_del_malo
 más_lento_que_un_desfile_de_cojos
 músculo_orbicular_de_los_párpados
 mỗi_cây_mỗi_hoa,_mỗi_nhà_mỗi_cảnh
-naaki_góneʼ_yéigo_daʼahijoogą́ą́ʼ
 naalʼeełítsoh_bitsiiʼ_halzhinígíí
 nailing_one's_colours_to_the_mast
 nam_thực_như_hổ,_nữ_thực_như_miêu
@@ -560,6 +569,7 @@ not_the_sharpest_tool_in_the_shed
 not_to_put_too_fine_a_point_on_it
 not_your_circus,_not_your_monkeys
 now_that's_what_I'm_talking_about
+nu_lăsa_pe_mâine_ce_poți_face_azi
 nuclear_hydrogen_detection_meters
 näennäissatunnaislukugeneraattori
 nėra_to_blogo_kas_neišeitų_į_gerą
@@ -615,6 +625,7 @@ put_a_civil_tongue_in_one's_mouth
 put_the_saddle_on_the_right_horse
 putting_one's_foot_in_one's_mouth
 putting_the_cart_before_the_horse
+putting_the_cat_among_the_pigeons
 quand_les_poules_auront_des_dents
 qui_va_à_la_chasse,_perd_sa_place
 quien_algo_quiere,_algo_le_cuesta
@@ -644,8 +655,10 @@ se_montrer_sous_son_meilleur_jour
 seem_like_a_good_idea_at_the_time
 seen_the_forest_but_for_the_trees
 seen_the_forest_through_the_trees
+seen_the_trees_through_the_forest
 sees_the_forest_but_for_the_trees
 sees_the_forest_through_the_trees
+sees_the_trees_through_the_forest
 sees_through_rose-colored_glasses
 sees_through_rose_colored_glasses
 seksueel_overdraagbare_aandoening
@@ -656,6 +669,7 @@ separate_the_wheat_from_the_chaff
 seria_cômico_se_não_fosse_trágico
 serve_someone_with_the_same_sauce
 serviceorientierten_Architekturen
+setting_the_cat_among_the_pigeons
 severe_acute_respiratory_syndrome
 shout_something_from_the_rooftops
 shēng_shì_duǎnzàn_sǐ_shì_yǒnghéng
@@ -705,6 +719,7 @@ take_a_page_out_of_someone’s_book
 take_a_picture,_it'll_last_longer
 take_matters_into_one's_own_hands
 take_one's_half_out_of_the_middle
+take_oneself_up_by_one's_own_ears
 take_the_Browns_to_the_Super_Bowl
 take_the_browns_to_the_super_bowl
 take_the_gilt_off_the_gingerbread
@@ -728,6 +743,7 @@ the_arse_is_gone_right_out_of_'er
 the_best_is_the_enemy_of_the_good
 the_best_thing_since_sliced_bread
 the_grey_mare_is_the_better_horse
+the_laborer_is_worthy_of_his_hire
 the_organ_grinder,_not_the_monkey
 the_squeaky_wheel_gets_the_grease
 the_valley_of_the_shadow_of_death
@@ -838,12 +854,13 @@ yī_rén_zhī_xià,_wàn_rén_zhī_shàng
 Àodàlìyǎ_Shǒudū_Tèbié_Xíngzhèngqū
 à_cœur_vaillant_rien_d'impossible
 à_cœur_vaillant_rien_d’impossible
-áłtsé_góneʼ_yéigo_daʼahijoogą́ą́ʼ
 är_du_allergisk_mot_någon_medicin
 é_melhor_prevenir_do_que_remediar
 être_à_prendre_avec_des_pincettes
 đàn_ông_xây_nhà,_đàn_bà_xây_tổ_ấm
 đời_cha_ăn_mặn,_đời_con_khát_nước
+łį́į́ʼ_bikʼídahaznilgo_naalgeedígíí
+źle_się_dzieje_w_państwie_duńskim
 Καλά_Χριστούγεννα_και_Καλή_Χρονιά
 η_σταγόνα_που_ξεχείλισε_το_ποτήρι
 καλά_Χριστούγεννα_και_καλή_χρονιά
@@ -866,6 +883,7 @@ yī_rén_zhī_xià,_wàn_rén_zhī_shàng
 компенсационного_натяжного_колеса
 компенсационному_натяжному_колесу
 коэффициентами_пропорциональности
+моя_хата_с_краю,_я_ничего_не_знаю
 неопознанными_летающими_объектами
 определённо_направленном_движении
 определённо_направленные_движения
@@ -896,24 +914,10 @@ yī_rén_zhī_xià,_wàn_rén_zhī_shàng
 Միավորված_ազգերի_կազմակերպություն
 Շնորհավոր_Նոր_Տարի_և_Սուրբ_Ծնունդ
 էլեկտրամագնիսական_փոխազդեցություն
-אַ_רענדל_אַראָפּ,_אַ_רענדל_אַרויף
+أکِس_دَزان_دٲر_تہٕ_بیٛاکھ_وُشناوان_اَتھٕ
 الدولة_الإسلامية_في_العراق_والشام
-بِسْمِ_اللهِ_الرّحْمَنِ_الرّحِيمِ
-بِسْمِ_ٱللهِ_ٱلرّحْمَنِ_ٱلرّحِيمِ
 جمهورية_تيمور_الشرقية_الديمقراطية
 جمهورية_كوريا_الديمقراطية_الشعبية
 وسیع_باش_و_تنها_و_سر_به_زیر_و_سخت
-ޔުނައިޓެޑް_ސްޓޭޓްސް_އޮފް_އެމެރިކާ
-अंतरष्ट्रिया_ध्वन्यात्मक_वर्णमाला
-ఆయన_వుంటే,_విస్తరి_అయినా_కుట్టును
-ఊర_పిచ్చుక_మీద_తాటికాయ_వుంచినట్టు
-ఎరువు_సతము_కాదు,_వాక్కు_తోడు_కాదు
-ఏనుగల_పోట్లాటకు_యేట్రింత_రాయభారము
-కండ్లు_ఆర్చినమ్మ_యిండ్లు_ఆర్చినది
-కొండ_మీదినుండి_బండ_దొర్లించినట్టు
-గాజుపూసల_గనిలో_ఘనమయిన_మణి_కలుగునా
-గుర్రము_తోకకు_కళ్లెము_పెట్టినట్టు
-ధైర్యములేని_రాజు,_యోచనలేని_మంత్రి
-เอาลูกเขามาเลี้ยงเอาเมี่ยงเขามาอม
-ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ
+สามีเป็นช้างเท้าหน้า_ภรรยาเป็นช้างเท้าหลัง
 საათის_ისრის_მიმართულებით_მოძრავი

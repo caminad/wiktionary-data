@@ -34,9 +34,11 @@ aurinko_paistaa_niin_hyville_kuin_pahoillekin
 buhat_ang_pasulti-on_dili_sulti_ang_pabuhaton
 c'est_dans_le_besoin_qu'on_reconnaît_ses_amis
 cad_a_dhéanfadh_mac_an_chait_ach_luch_a_mharú
+calling_someone_everything_but_a_child_of_God
 can't_live_with_them,_can't_live_without_them
 catches_someone_with_a_hand_in_the_cookie_jar
 cha_d'fhuair_droch-ràmhaich_ràmh_math_a-riamh
+cine_se_trezește_de_dimineață,_departe_ajunge
 coming_down_like_a_cow_pissing_on_a_flat_rock
 continuous_erythropoietin_receptor_activators
 contra_el_vicio_de_pedir,_la_virtud_de_no_dar
@@ -60,8 +62,10 @@ ha_nincs_otthon_a_macska,_cincognak_az_egerek
 hablando_del_rey_de_Roma,_por_la_puerta_asoma
 hai_người_đàn_bà_và_một_con_vịt_thành_cái_chợ
 have_eating_out_of_the_palm_of_someone's_hand
+have_got_more_chins_than_a_Chinese_phone_book
 he_who_digs_a_pit_for_others_falls_in_himself
 human_seminal_plasma_protein_hypersensitivity
+hypotalamus-aivolisäke-lisämunuaiskuoriakseli
 if_you_want_a_thing_done_well,_do_it_yourself
 ikke_at_kunne_få_øje_på_skoven_for_bare_træer
 il_faut_battre_le_fer_pendant_qu'il_est_chaud
@@ -90,6 +94,7 @@ né_avec_une_cuillère_en_argent_dans_la_bouche
 on_n'attrape_pas_des_mouches_avec_du_vinaigre
 on_n'attrape_pas_les_mouches_avec_du_vinaigre
 on_n’attrape_pas_des_mouches_avec_du_vinaigre
+one_can't_carry_two_watermelons_under_one_arm
 one_cannot_make_a_silk_purse_from_a_sow's_ear
 one_cannot_put_a_wise_head_on_young_shoulders
 one_cannot_put_an_old_head_on_young_shoulders
@@ -158,9 +163,4 @@ zoals_het_klokje_thuis_tikt,_tikt_het_nergens
 страдательными_причастиями_настоящего_времени
 страдательными_причастиями_прошедшего_времени
 у_вас_есть_аллергия_на_какие-нибудь_лекарства
-গ্রেট_ব্রিটেন_ও_উত্তর_আয়ারল্যান্ড_যুক্তরাজ্য
-అన్నీ_తెలిశినవాడూ_లేడు,_యేమీ_తెలియనివాడూ_లేడు
-ఏరు_యెన్ని_వంకలు_పోయినా,_సముద్రములోనే_పడవలెను
-చెప్పులు_చిన్నవి_అని_కాళ్లు_తెగకోసుకో_వచ్చునా
-สหราชอาณาจักรเกรตบริเตนและนอร์เทิร์นไอร์แลนด์
 საათის_ისრის_საპირისპირო_მიმართულებით_მოძრავი

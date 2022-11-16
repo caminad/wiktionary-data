@@ -110,6 +110,7 @@ Arcitalitrus_sylvaticus
 Arctostaphylos_uva-ursi
 Argentine_Sign_Language
 Argyll_Robertson_pupils
+Armenian_cracker_breads
 Arndt-Eistert_synthesis
 Asplenium_scolopendrium
 Astronomische_Einheiten
@@ -199,6 +200,7 @@ Bundesnachrichtendienst
 Bundesverkehrsministern
 Bundesverkehrsministers
 Buteogallus_anthracinus
+Bwrdeistref_Sirol_Conwy
 Béésh_Bichʼahii_Bikéyah
 Béésh_Bichʼahii_bikéyah
 Béésh_Łichíiʼii_bikéyah
@@ -211,6 +213,7 @@ California_blackberries
 California_pepper_trees
 California_smoothtongue
 California_spangled_cat
+Callancyla_croceicollis
 Callicebus_aureipalatii
 Calyptorhynchus_banksii
 Calyptorhynchus_lathami
@@ -291,6 +294,7 @@ Comunidade_da_Austrália
 Confoederatio_Helvetica
 Congregational_churches
 Convenciones_de_Ginebra
+Copeland-Erdős_constant
 Coromandel_gooseberries
 Coronel_Domingos_Soares
 Cortinarius_aureifolius
@@ -301,6 +305,7 @@ Cortinarius_camphoratus
 Cortinarius_cinnamomeus
 Corythaixoides_concolor
 Cotswold_morris_dancing
+Couva-Tabaquite-Talparo
 Coxeter-Dynkin_diagrams
 Crigler-Najjar_syndrome
 Crocuta_crocuta_spelaea
@@ -358,6 +363,7 @@ Doppler_ultrasonography
 Dormant_Commerce_Clause
 Doutor_Maurício_Cardoso
 Dr._Jekyll_and_Mr._Hyde
+Dracos_in_Leather_Pants
 Drosophila_melanogaster
 Dupuytren's_contracture
 Durchschnittseinkommens
@@ -413,11 +419,13 @@ European_pond_terrapins
 European_river_lampreys
 European_swamp_thistles
 Europeiska_kommissionen
+Europäischen_Kommission
 Excalfactoria_adansonii
 Excalfactoria_chinensis
 Executive_Ball_Clickers
 Falcipennis_falcipennis
 Falkland_Islands_wolves
+Fallen_Jerusalem_Island
 Fallschirmspringerinnen
 Fed._Rep._of_Yugoslavia
 Felis_silvestris_libyca
@@ -458,6 +466,7 @@ Gebärmutterschleimhäute
 Gebühreneinzugszentrale
 Gefahrstoffverordnungen
 Gemenebest_van_Virginia
+Gemischtwarengeschäftes
 Gemischtwarenhandlungen
 General_Mariano_Alvarez
 Geococcyx_californianus
@@ -466,6 +475,7 @@ Geotrygon_costaricensis
 Gesamtstickstoffgehalte
 Gesamtstickstoffgehalts
 Geschiedschrijversbuurt
+Geschlechterbinaritäten
 Geschlechtsumwandlungen
 Geschwindigkeitsgrenzen
 Geschwindigkeitsmessern
@@ -522,6 +532,7 @@ Hardwareentwicklerinnen
 Harnack's_curve_theorem
 Harpyopsis_novaeguineae
 Harrod-Johnson_diagrams
+Harry_Potter_spectacles
 Hashimoto's_thyroiditis
 Hauptanwendungsgebieten
 Hauptschriftleiterinnen
@@ -540,6 +551,7 @@ Herrscherpersönlichkeit
 Hesketh_with_Becconsall
 Heteronetta_atricapilla
 Hierococcyx_hyperythrus
+Highcliffe_and_Walkford
 Hilbert's_basis_theorem
 Hochgeschwindigkeitszug
 Hochland-Ameisenwürgern
@@ -581,6 +593,7 @@ Informationstechnologie
 Ing-galik_ga_shaga_ai_i
 Innensechskantschlüssel
 Innensechskantschrauben
+Intergeschlechtlichkeit
 Interior_Alaskan_wolves
 Interkontinentalraketen
 International_Date_Line
@@ -600,6 +613,7 @@ James_B._Duke_professor
 Japanese_bunching_onion
 Japanese_cherry_birches
 Japanese_sweet_potatoes
+Jesus,_Mary,_and_Joseph
 Johanneksen_evankeliumi
 José_Gonçalves_de_Minas
 Joule-Thomson_expansion
@@ -607,6 +621,7 @@ Judeo-Christian-Islamic
 Juneau_City_and_Borough
 Junggesellinnenabschied
 Justizvollzugsanstalten
+Jyväskylän_maalaiskunta
 Kalispel-Pend_d'Oreille
 Kaliumhydrogencarbonats
 Kaliumpermanganatlösung
@@ -659,6 +674,7 @@ Kurznachrichtendienstes
 Kutta-Joukowski_theorem
 Kyasanur_forest_disease
 Kéyah_Wóyahgo_Siʼánígíí
+Köhlmeier-Degos_disease
 La_Torre_de_les_Maçanes
 Lady_Amherst's_pheasant
 Lafab_Fonetik_Bevünetik
@@ -669,6 +685,7 @@ Lanthanoidenkontraktion
 Laredo_striped_whiptail
 Laterallus_leucopyrrhus
 Laterallus_melanophaius
+Lawson_comfort_criteria
 Lebensmittelergänzungen
 Lebensmittelfarbstoffen
 Lebensmittelgrosshandel
@@ -751,6 +768,7 @@ Medienwissenschaftlerin
 Mediterranean_fruit_fly
 Mehrfamilienwohnhäusern
 Mehrkomponentenreaktion
+Mehrwertsteuerbefreiung
 Mehrzweckkampfflugzeuge
 Mehrzweckkampfflugzeugs
 Meinungsverschiedenheit
@@ -795,7 +813,7 @@ Nacht_der_langen_Messer
 Nacktschwanzgürteltiere
 Nacktschwanzgürteltiers
 Nahrungszusammensetzung
-Nashobaat_chomak_po̠fa.
+Nashoba-at_chomak_po̠fa.
 Nathusius's_pipistrelle
 National_Capital_Region
 Natriumhydrogencarbonat
@@ -839,6 +857,7 @@ Nothoprocta_cinerascens
 Novae_Cambriae_Australi
 Nucifraga_caryocatactes
 Nuit_des_Longs_Couteaux
+Náátsʼózídę́ę́ʼ_naalʼeełí
 Nägel_mit_Köpfen_machen
 Oberflächenbehandlungen
 Oberflächenbeschichtung
@@ -879,6 +898,7 @@ Paul_Allen's_flower_fly
 Pedras_de_Maria_da_Cruz
 Pentakohlenstoffdioxids
 People's_Rep._of_Angola
+Persian_relapsing_fever
 Phalacrocorax_campbelli
 Phalacrocorax_neglectus
 Phalacrocorax_pelagicus
@@ -896,6 +916,7 @@ Phylloscopus_orientalis
 Phylloscopus_proregulus
 Phylloscopus_sibilatrix
 Picard-Lindelöf_theorem
+Pierwsza_Księga_Samuela
 Pionites_melanocephalus
 Pithecanthropus_erectus
 Pithecellobium_cinereum
@@ -962,6 +983,7 @@ Queen's_Gambit_Declined
 Queen_Charlotte_Islands
 Queen_City_of_the_South
 Queen_Elizabeth_Islands
+RNA_expression_patterns
 RNA_expression_profiles
 Rademacher_distribution
 Radiokohlenstoffmethode
@@ -984,6 +1006,7 @@ Reisegepäckversicherung
 Religionswissenschaften
 Rep._Popular_de_Polonia
 Repubblica_di_Macedonia
+Republic_of_El_Salvador
 Republica_Africa_de_Sud
 Republica_Arabă_Siriană
 Republica_Capului_Verde
@@ -1017,11 +1040,13 @@ Révolution_Îndustrielle
 Ríocht_na_hAraibe_Sádaí
 Sacrum_Romanum_Imperium
 Sagittaria_sagittifolia
+Saguenay–Lac-Saint-Jean
 Saint-Georges-sur-Loire
 Saint-Gervais-les-Bains
 Saint-Jean-Pied-de-Port
 Saint-Pierre_i_Miquelon
 Saint_Anthony's_crosses
+Saint_George_Gingerland
 Sainte_Genevieve_County
 Salter-Harris_fractures
 Salvadorina_waigiuensis
@@ -1091,6 +1116,8 @@ Sicherheitsvorschriften
 Sierra_Madre_Occidental
 Silver-Russell_syndrome
 Simmons-Smith_reactions
+Singapore-on-the-Thames
+Singmaster's_conjecture
 Singulärwertzerlegungen
 Sir_Philip_Sidney_games
 Skattebøl_rearrangement
@@ -1100,6 +1127,7 @@ Sleeping_Beauty_problem
 Slovenian_Sign_Language
 Small_Business_Saturday
 Small_Scale_Integration
+Social_Democratic_Party
 Softwareentwicklerinnen
 Somniosus_microcephalus
 Son_of_the_Morning_Star
@@ -1146,6 +1174,7 @@ Sài'ěrwéiyà-kèluódìyàyǔ
 Sài'ěrwéiyǎ-kèluódìyǎyǔ
 São_Francisco_do_Glória
 São_Miguel_da_Boa_Vista
+Säuglingsanfangsnahrung
 Sīrijas_Arābu_Republika
 Sīrijas_Arābu_Republiku
 Sīrijas_Arābu_Republikā
@@ -1165,7 +1194,9 @@ Technetiumpentafluorids
 Technetiumtetrachlorids
 Teichmüller-Tukey_lemma
 Temperaturbeständigkeit
+Tera–Wasserburg_diagram
 Terre-Neuve-et-Labrador
+Terres_baixes_d'Escòcia
 Territórios_do_Noroeste
 Tetrakohlenstoffdioxids
 Tetraogallus_caucasicus
@@ -1195,6 +1226,7 @@ Totgesagte_leben_länger
 Toxicodendron_rydbergii
 Tragopan_melanocephalus
 Transformatorenwicklung
+Transgeschlechtlichkeit
 Tribunal_Prostitucional
 Trichobilharzia_regenti
 Triebel-Lizorkin_spaces
@@ -1217,12 +1249,14 @@ Universitätsabschlusses
 Unkameradschaftlichkeit
 Unmöglichkeitserklärung
 Unol_Daleithiau_America
+Unsupported_titles/CV:s
 Unsupported_titles/EU:s
 Unsupported_titles/Hash
 Unsupported_titles/Pipe
 Unsupported_titles/S:ta
 Unsupported_titles/b:co
-Unsupported_titles/r:dr
+Unsupported_titles/cv:s
+Unsupported_titles/cv:t
 Unsupported_titles/st:a
 Unterscheidungsvermögen
 Untersuchungsausschusse
@@ -1267,6 +1301,7 @@ Walliserops_trifurcatus
 Wasserstoffverbindungen
 Wasserstoffwirtschaften
 Wat_kan_ik_voor_u_doen?
+Weaire-Phelan_structure
 Weber-Cockayne_syndrome
 Wechselwirkungsenergien
 Wednesbury_unreasonable
@@ -1290,6 +1325,7 @@ Witherspoon-excludables
 Wizard_of_Oz_experiment
 Wohlstandsverwahrlosung
 Wohnzimmereinrichtungen
+Wolverton_and_Greenleys
 Woodward-Hoffmann_rules
 World_War_II_generation
 Wurzelkanalbehandlungen
@@ -1326,7 +1362,6 @@ a_mal_tiempo_buena_cara
 a_outro_can_con_ese_óso
 a_rock_and_a_hard_place
 a_tutti_gli_interessati
-aahwiinítʼį́_bá_hooghan
 aan_de_touwtjes_trekken
 aanbestedingsprocedures
 aanbestedingsregelingen
@@ -1365,6 +1400,7 @@ absorberingskoeffisient
 absorption_coefficients
 absorption_dynamometers
 absorption_refrigerator
+absorption_spectroscopy
 abstimmungsberechtigtem
 abstimmungsberechtigten
 abstimmungsberechtigter
@@ -1439,7 +1475,6 @@ afrikkalainen_sikarutto
 afscheidingsbeweginkjes
 afterhyperpolarizations
 against_the_run_of_play
-agarramela_que_me_crece
 agarrarse_de_las_greñas
 ageing_like_a_fine_wine
 agentive_nominalisation
@@ -1447,6 +1482,7 @@ agentive_nominalization
 agreements_in_principle
 agricultural_revolution
 agua_caliente_sanitaria
+agárramela_que_me_crece
 ailse_dhucht_an_domlais
 air-to-surface_missiles
 air_traffic_controllers
@@ -1701,6 +1737,7 @@ attraversamenti_zebrati
 attraversamento_zebrato
 atypical_antipsychotics
 au_milieu_de_nulle_part
+au_nez_et_à_la_barbe_de
 audiencias_provinciales
 auf_Nummer_sicher_gehen
 auf_dem_Schlauch_stehen
@@ -1761,6 +1798,7 @@ azerbaidžāniešu_valodai
 azerbaidžāniešu_valodas
 að_vera_heitt_í_hamstri
 až_to_bude,_tak_to_bude
+baa_hózhǫ́ǫgo_niʼdizhchį́
 baba_swoje,_chłop_swoje
 baba_swoje,_czart_swoje
 baba_swoje,_dziad_swoje
@@ -1789,6 +1827,7 @@ banque_d'investissement
 bar-breasted_honeyeater
 barbe_d'vièr_bouonhomme
 barking_dogs_never_bite
+barks_up_the_wrong_tree
 base_station_subsystems
 basic_reproduction_rate
 basic_reproductive_rate
@@ -1908,6 +1947,8 @@ blijf-van-mijn-lijfhuis
 blind_leading_the_blind
 blindedarmontstekinkjes
 blindtarmsbetændelserne
+blindtarmsinflammations
+blindtarmsoperationerna
 blood,_sweat,_and_tears
 blots_on_the_escutcheon
 blow_out_of_proportions
@@ -1918,6 +1959,7 @@ blue-cheeked_bee-eaters
 blue-throated_sapphires
 blue-winged_grasshopper
 blue-winged_kookaburras
+blue_creeping_gromwells
 blueberry_muffin_babies
 bo_mage_vennen_an_hotèl
 bog'ses_d'êcoute-pathai
@@ -1932,7 +1974,6 @@ bonfire_of_the_vanities
 books_of_original_entry
 bored_out_of_one's_mind
 bored_out_of_one's_tree
-born_on_the_4th_of_July
 borneonmustapäästäiseen
 borneonmustapäästäisien
 borneonmustapäästäisiin
@@ -2019,11 +2060,13 @@ c'est_plus_fort_que_moi
 ca_două_picături_de_apă
 cabine_de_signalisation
 cabinets_of_curiosities
+caciu_nta_li_maccarruna
 cada_muerte_de_un_judío
 cailleachag_cheann-dubh
 calabacines_de_invierno
 calada_hasta_los_huesos
 calado_hasta_los_huesos
+calamar_volador_europeo
 calcium_channel_blocker
 caldeira_de_recuperação
 calendario_dell'Avvento
@@ -2049,6 +2092,7 @@ campos_de_concentración
 can't_have_it_both_ways
 canaries_in_a_coal_mine
 canary_in_the_coal_mine
+canebrake_groundcreeper
 cangarú_glas_iartharach
 cannabipiperidiethanone
 cannello_ferruminatorio
@@ -2163,6 +2207,7 @@ chlorobenzenesulfonates
 chlorodiphenylphosphine
 chlorotrifluoroethylene
 choice_of_forum_clauses
+choisir,_c'est_renoncer
 cholangiocarcinogenesis
 cholangiopancreatograms
 cholecystoenterostomies
@@ -2247,9 +2292,11 @@ come_hell_or_high_water
 come_out_of_one's_shell
 come_up_with_snake_eyes
 come_with_the_territory
+comes_from_a_good_place
 comes_out_of_the_closet
 comes_up_with_the_goods
 comhachaige-adharcaiche
+coming_in_from_the_cold
 command-line_interfaces
 command_line_interfaces
 comme_sur_des_roulettes
@@ -2417,6 +2464,7 @@ craobhan-sloinntearachd
 craoibhe-sloinntearachd
 crazy_man_in_the_bottle
 creaming_in_one's_jeans
+creatinephosphoric_acid
 creuser_sa_propre_tombe
 cries_in_the_wilderness
 crime_contre_l'humanité
@@ -2438,6 +2486,7 @@ crystal_radio_receivers
 cuervos_de_cabeza_negra
 cuillère_à_pamplemousse
 cuimhneachan_bliadhnail
+cultural_anthropologist
 cultural_appropriations
 culturally_appropriated
 culturally_appropriates
@@ -2458,6 +2507,7 @@ cutting_the_pigeon_wing
 cyclic_redundancy_check
 cyclofunctionalizations
 cyclohexanecarbonitrile
+cyfreithiwr_cyffredinol
 cyprès_d'chînm'tchiéthe
 cytoimmunofluorescences
 cytoplasmic_determinant
@@ -2474,7 +2524,6 @@ c’est_du_pareil_au_même
 d'une_pierre_deux_coups
 da_lachen_ja_die_Hühner
 da_li_govorite_engleski
-dachan_tat_gwa’aak’į̨̀į
 dacryocystorhinostomies
 daddy_long-legs_spiders
 dadilhóni_aheltłʼidígíí
@@ -2492,6 +2541,7 @@ dans_toute_sa_splendeur
 dans_une_moindre_mesure
 danse_efter_nogens_pibe
 dansen_kring_guldkalven
+dark_crimson_underwings
 dark_green_fritillaries
 das_Kriegsbeil_begraben
 das_kann_man_wohl_sagen
@@ -2510,6 +2560,7 @@ de_kat_de_bel_aanbinden
 de_la_Chapelle_syndrome
 de_la_noche_a_la_mañana
 de_teerling_is_geworpen
+de_una_vez_para_siempre
 deadly_diamond_of_death
 deadnettle_leaf_beetles
 deanthropomorphisations
@@ -2547,6 +2598,7 @@ dendrochronologiquement
 densidades_demográficas
 deoksiribonükleik_asidi
 deossiribonucleotidiche
+deoxyadenosylcobalamins
 deoxycytidyltransferase
 deoxygalactonojirimycin
 deoxyribonucleoproteins
@@ -2727,6 +2779,7 @@ dodecicosidodecahedrons
 doekje_voor_het_bloeden
 doença_de_descompressão
 does_not_something_make
+does_the_handsome_thing
 dog_that_caught_the_car
 doggy_dinner_bowl_looks
 domestic_policy_council
@@ -2737,6 +2790,7 @@ don't_get_mad;_get_even
 don't_get_your_hopes_up
 don't_quit_your_day_job
 donationes_mortis_causa
+done_the_handsome_thing
 donner_un_coup_de_balai
 donner_un_coup_de_pouce
 donor-specific_antibody
@@ -2763,6 +2817,8 @@ duodenopancreatectomies
 duplication_of_the_cube
 durch_den_Kakao_gezogen
 durch_den_Kakao_ziehend
+duress_of_circumstances
+dusted_someone's_jacket
 duyu-dil_programlamalar
 duyu-dil_programlamanın
 dvakrát_měř,_jednou_řež
@@ -2852,6 +2908,7 @@ eksistenciālistiskākajā
 eksistenciālistiskākiem
 ekskluzivna_disjunkcija
 eksponentiaalinen_kasvu
+el_beneficio_de_la_duda
 electric_carving_knives
 electric_multiple_units
 electrificina_nuclearis
@@ -2911,6 +2968,7 @@ elintarvikeomavaraisuus
 ellipsoid_of_revolution
 eloonjääneen_syyllisyys
 elämäntaidon_valmentaja
+elättää_kyytä_povellaan
 embarrassingly_parallel
 embarrassment_of_riches
 embun_belum_kering_lagi
@@ -2940,6 +2998,7 @@ endoglycosylceramidases
 energetic_disassemblies
 enfermedad_de_Alzheimer
 enfermedad_de_Newcastle
+enfermedad_de_Parkinson
 enfliammâtion_d'ponmons
 engañar_como_a_un_chino
 engine_order_telegraphs
@@ -3010,6 +3069,7 @@ estar_hasta_los_pelotas
 estar_hecho_unos_zorros
 esternocleidomastoideos
 esthetically_challenged
+eteläaustralianhännäkkö
 etelävenäjänpaimenkoira
 ethnopsychopharmacology
 etichette_discografiche
@@ -3112,6 +3172,7 @@ fast_Fourier_transforms
 faster_than_Minute_Rice
 fat-tailed_dwarf_lemurs
 fatal_familial_insomnia
+fattig_som_en_kyrkråtta
 faʻaauraʻa_autaeaʻeraʻa
 fee_simple_determinable
 feel_it_in_one's_waters
@@ -3127,6 +3188,8 @@ ferroelectric_capacitor
 ferroelectric_converter
 fertilitetskvotienterne
 fetal_alcohol_syndromes
+feucht_hinter_den_Ohren
+feuille-caillou-ciseaux
 fibromuscular_dysplasia
 fibroneovascularization
 fiddle_while_Rome_burns
@@ -3151,10 +3214,10 @@ firm_hand_at_the_tiller
 firm_hand_on_the_tiller
 first-chance_exceptions
 first-come-first-served
+first_angle_projections
 first_come_first_served
 first_cosmic_velocities
 first_orders_of_the_day
-first_solstitial_colure
 fish_in_troubled_waters
 fisica_delle_particelle
 fix_someone's_red_wagon
@@ -3306,6 +3369,7 @@ genehmigungspflichtiger
 genehmigungspflichtiges
 general_classifications
 generalized_search_tree
+genetically_manipulated
 geniculostriate_pathway
 genombrottsspänningarna
 geoffroynhämähäkkiapina
@@ -3332,6 +3396,7 @@ gesundheitsschädlichste
 get_blood_from_a_turnip
 get_down_to_brass_tacks
 get_in_the_boat_and_row
+get_into_someone's_head
 get_it_how_one_lives_it
 get_off_your_high_horse
 get_on_someone's_nerves
@@ -3518,6 +3583,7 @@ gross_national_products
 grosse_comme_une_maison
 grote_ivoorsnavelspecht
 group_specific_antigens
+grupa_trzymająca_władzę
 grupperingsfunktionerna
 gråryggiga_törnskatorna
 guanosine_monophosphate
@@ -3594,6 +3660,7 @@ have_got_half_a_mind_to
 have_got_someone's_back
 have_intimate_relations
 have_it_in_for_somebody
+have_nothing_on_someone
 have_one's_act_together
 have_one's_day_in_court
 have_one's_ears_lowered
@@ -3687,6 +3754,7 @@ homogeneous_polynomials
 homolactic_fermentation
 honorific_transposition
 honorificabilitudinitas
+honouring_in_the_breach
 horitzó_d'esdeveniments
 horizons_des_événements
 horizontal_integrations
@@ -3703,6 +3771,7 @@ houses_of_accommodation
 how_the_wind_is_blowing
 hueyi_teopixcatitlantli
 hueyi_teopixcatlahtoani
+hukumang_huling_dulugan
 human_interface_devices
 human_leukocyte_antigen
 humanistiska_programmet
@@ -3744,7 +3813,6 @@ hypothetical_imperative
 hypothromboplastinaemia
 hysterosalpingographies
 hyökkäämättömyyssopimus
-hái-kun_lio̍k-chiàn-tūi
 háiyǒu_zhèizhǒng_cāozuò
 häktningsförhandlingars
 häktningsförhandlingens
@@ -3825,6 +3893,7 @@ inclusion_polymorphisms
 incommensurabilitatibus
 inconstitutionnellement
 independent_contractors
+independent_possessives
 indeterminacy_principle
 indirect_maternal_death
 individualanarkisternas
@@ -3842,6 +3911,7 @@ inferior_sagittal_sinus
 inferior_thyroid_artery
 infinite_monkey_theorem
 infinitesimalregningens
+inflectional_morphology
 informasjonsteknologien
 informationskrigförings
 informationssekreterare
@@ -3870,9 +3940,11 @@ innleadairean-thogalach
 inquisition_post_mortem
 ins_Fettnäpfchen_treten
 ins_gleiche_Horn_blasen
+insamlingsstiftelsernas
 inseminación_artificial
 instalasi_gawat_darurat
 instant_mashed_potatoes
+institute_of_technology
 institutionaalistuminen
 institutional_framework
 institutionnalisassions
@@ -3920,6 +3992,7 @@ interfaţă_de_utilizator
 interfață_de_utilizator
 interference_microscope
 intergeniculate_leaflet
+interinstitucionalmente
 interiorized_stuttering
 intermetallic_compounds
 internacionālistiskajai
@@ -3974,6 +4047,7 @@ intrinsic_semiconductor
 introspection_illusions
 intuicionistická_logika
 intégrité_référentielle
+inventaire_intermittent
 inverted_question_marks
 investigadores_privados
 inába_száll_a_bátorsága
@@ -3983,7 +4057,6 @@ ion_selective_electrode
 iontenawirohare’táhkhwa
 is_anyone_here_a_doctor
 is_there_a_smaller_size
-ishtilo̠hoshontika'chi'
 iskay_chunka_iskayniyuq
 iskay_chunka_isqunniyuq
 iskay_chunka_pusaqniyuq
@@ -4069,6 +4142,7 @@ kaminos_de_leche_i_miel
 kammarrättsassessorerna
 kammarrättspresidentens
 kammarrättspresidenters
+kan_slänga_sig_i_väggen
 kanadalainen_jalkapallo
 kanadankääpiöpäästäinen
 kanonneerbootdiplomatie
@@ -4144,6 +4218,7 @@ knocking_on_the_door_of
 knocks_on_heaven's_door
 know_from_a_bar_of_soap
 know_what_o'clock_it_is
+knowing_which_end_is_up
 koalitionsregeringarnas
 kokonaislukukertoiminen
 kokonaisopiskelijamäärä
@@ -4182,6 +4257,7 @@ korrosionsbeständigstem
 korrosionsbeständigsten
 korrosionsbeständigster
 korrosionsbeständigstes
+kostnad_för_sålda_varor
 kova_pähkinä_purtavaksi
 košile_bližší_než_kabát
 kreaturspremieringarnas
@@ -4216,6 +4292,7 @@ kyselina_chlorovodíková
 kyselina_fluorovodíková
 kääntäjänkoulutuslaitos
 kääntää_toinenkin_poski
+kääpiöhevosenkenkäyökkö
 kærlighedserklæringerne
 körfuknattleiksþjálfari
 köyhä_kuin_kirkon_rotta
@@ -4223,6 +4300,7 @@ künstlicher_Darmausgang
 la_alegría_de_la_huerta
 la_cerise_sur_le_gâteau
 la_croix_et_la_bannière
+la_noche_de_los_tiempos
 la_unión_hace_la_fuerza
 lactotetraosylceramides
 laivanrakennusinsinööri
@@ -4273,6 +4351,7 @@ leaving_someone_on_seen
 left,_right,_and_center
 left-handed_compliments
 left-handed_specialists
+left_much_to_be_desired
 left_one's_options_open
 legengesztelhetetlenebb
 legeslegakadálytalanabb
@@ -4310,6 +4389,7 @@ lesser_included_offense
 lesser_prairie_chickens
 let_someone_down_gently
 let_the_good_times_roll
+lets_bygones_be_bygones
 letter_of_countermarque
 letters_of_counter-mart
 letting_it_all_hang_out
@@ -4369,6 +4449,7 @@ listen_with_half_an_ear
 listening_comprehension
 litteraturförteckningar
 litteraturförteckningen
+litteraturhistorikernas
 little_black_cormorants
 little_bluestem_grasses
 little_emperor_syndrome
@@ -4403,6 +4484,7 @@ look_on_the_bright_side
 look_out_for_Number_One
 look_out_for_number_one
 looked_before_one_leapt
+loop_disconnect_dialing
 loop_transfer_functions
 loosen_someone's_tongue
 lord_of_all_one_surveys
@@ -4473,6 +4555,7 @@ make_a_long_story_short
 make_a_name_for_oneself
 make_all_the_difference
 make_an_honest_woman_of
+make_love_to_the_camera
 make_someone's_ears_sad
 make_someone's_jaw_drop
 make_someone’s_jaw_drop
@@ -4480,6 +4563,7 @@ make_the_blood_run_cold
 make_the_world_go_round
 make_yourselves_at_home
 making_mincemeat_out_of
+making_the_bald_man_cry
 making_the_feathers_fly
 makrotaloustieteellinen
 mal_comune_mezzo_gaudio
@@ -4496,6 +4580,7 @@ manners_of_articulation
 manschettbrottslingarna
 mantenimiento_de_la_paz
 manzanillas_de_Castilla
+mapamalagay_na_batnayan
 mar_chloich_às_an_adhar
 march_to_one's_own_drum
 marcher_à_quatre_pattes
@@ -4559,6 +4644,8 @@ meningomyeloradiculitis
 mensenrechtenactivisten
 mensenrechtenactivistes
 mental_inquest_warrants
+mentalitetshistorikerna
+mentalitetshistorikerns
 mentir_comme_on_respire
 mentira_tem_perna_curta
 mercaptocarboxylic_acid
@@ -4619,6 +4706,7 @@ middle_meningeal_artery
 mielenosoituksellisesti
 mielenterveyskuntoutuja
 mielenterveystoimistoja
+mierzyć_siły_na_zamiary
 miez_miur_e_miez_utschi
 mieć_oczy_dookoła_głowy
 mijnenbestrijdingsschip
@@ -4760,6 +4848,7 @@ mũtumia_wa_kĩero_gĩtune
 n'avoir_d'yeux_que_pour
 n'en_faire_qu'à_sa_tête
 naa_pa_sa_itlog_sa_papa
+naakʼaʼatʼą́hí_disǫsígíí
 naar_de_mutsaard_rieken
 nachrichtenorientiertem
 nachrichtenorientierten
@@ -4778,6 +4867,7 @@ nanoelektromechanischer
 nanoelektromechanisches
 naphthaleneacetic_acids
 narrative_present_tense
+narrow-nosed_rhinoceros
 nascer_em_berço_de_ouro
 nastro_adesivo_di_carta
 nationalsozialistischem
@@ -4879,6 +4969,7 @@ nitrophenylgalactosides
 nitrophenylphosphatases
 nitsii_’ghá-í_táôâ’ee’â
 nitéé’sk’ei_hnzhú’’áôlá
+no_contact,_no_contract
 no_more_Mister_Nice_Guy
 no_names,_no_pack_drill
 no_one_is_born_a_master
@@ -4898,6 +4989,7 @@ non-diversifiable_risks
 non-ionizing_radiations
 non-maskable_interrupts
 non-printable_character
+non-traditional_student
 nonaggression_principle
 noncommissioned_officer
 noncommutative_geometry
@@ -4909,6 +5001,7 @@ nonhypercholesterolemic
 nonprecision_approaches
 nonsense-mediated_decay
 nontherapeutic_abortion
+nontraditional_students
 nonverbal_communication
 nopean_toiminnan_joukko
 nopean_toiminnan_joukot
@@ -4919,6 +5012,7 @@ nordrhein-westfälisches
 normal_random_variables
 norsunluurannikkolainen
 northern_greater_galago
+northern_palm_squirrels
 noses_to_the_grindstone
 not_a_bother_on_someone
 not_bear_thinking_about
@@ -4942,8 +5036,6 @@ numeri_di_coordinazione
 numero_di_coordinazione
 nunca_mucho_cuesta_poco
 nyitva_van_a_mészárszék
-náhásdzo_hayázhí_dikʼą́
-náshdóítsoh_noodǫ́zígíí
 náshdóíłgaii_łikizhígíí
 não_ter_onde_cair_morto
 não_ter_papas_na_língua
@@ -4951,6 +5043,7 @@ när_allt_kommer_omkring
 nära_skjuter_ingen_hare
 né_de_la_dernière_pluie
 né_in_cielo_né_in_terra
+níyol_yiiʼ_naʼałkǫ́ʼígíí
 nǚxìng_shēngzhíqì_qiēgē
 n’en_faire_qu’à_sa_tête
 o_diabo_que_te_carregue
@@ -5087,8 +5180,8 @@ ortogonaalikomplementti
 os_dados_estão_lançados
 osallistumisaktiivisuus
 ossicloruro_di_carbonio
-ossisulfuri_di_carbonio
-ossisulfuro_di_carbonio
+ossisolfuri_di_carbonio
+ossisolfuro_di_carbonio
 osteochondroprogenitors
 osteogenesis_imperfecta
 osteogénesis_imperfecta
@@ -5104,6 +5197,7 @@ otorhinolaryngologiques
 otorhinolaryngologistes
 otorrinolaringologistas
 out-of-body_experiences
+out-paramoured_the_Turk
 out_of_one's_own_pocket
 out_of_someone's_league
 outta_sight,_outta_mind
@@ -5140,6 +5234,7 @@ papagal_micul_Alexander
 papamosques_del_paradís
 par_la_force_des_choses
 par_voie_de_conséquence
+para_chuparse_los_dedos
 para_colmo_de_los_males
 para_gustos_hay_colores
 parachlorophenylalanine
@@ -5172,6 +5267,7 @@ participatory_democracy
 participatory_economics
 participação_em_mercado
 participação_no_mercado
+particulate_inheritance
 particules_élémentaires
 partikkelakseleratorane
 partikkelakseleratorene
@@ -5207,6 +5303,7 @@ pedra,_papel_ou_tesoura
 pedra,_tesoura_ou_papel
 pee_on_one's_cornflakes
 peeing_like_a_racehorse
+peilingen_zijn_palingen
 pela_boca_morre_o_peixe
 pelata_korttinsa_oikein
 pelotón_de_fusilamiento
@@ -5329,8 +5426,10 @@ pitulice_mică_siberiană
 pitää_matalaa_profiilia
 placas_dentobacterianas
 placer_sur_un_piédestal
+places_de_stationnement
 plagioklaasiporfyriitti
 plain-winged_antshrikes
+plakat_na_špatném_hrobě
 planetary_nebula_nuclei
 planificaciones_urbanas
 plantas_desalinizadoras
@@ -5347,6 +5446,7 @@ plattformübergreifendem
 plattformübergreifenden
 plattformübergreifender
 plattformübergreifendes
+play_the_something_card
 play_to_the_cheap_seats
 played_one's_cards_well
 played_one's_hand_right
@@ -5403,6 +5503,7 @@ polyvinylidene_chloride
 polyvinylidene_fluoride
 políticamente_correctas
 políticamente_correctos
+pomme_épineuse_d'Égypte
 poner_de_vuelta_y_media
 poner_en_tela_de_juicio
 poner_pies_en_polvorosa
@@ -5441,6 +5542,8 @@ potato_chips_of_the_sea
 potkuriturbiinimoottori
 pour_honey_in_one's_ear
 pour_la_petite_histoire
+pouring_one's_heart_out
+pouring_out_one's_heart
 pousser_la_chansonnette
 pouvoir_toujours_courir
 poverty_of_the_stimulus
@@ -5608,6 +5711,7 @@ puts_through_the_mangle
 putting_a_brave_face_on
 putting_on_a_brave_face
 putting_one's_back_into
+putting_one_in_hospital
 pušiti_cigaru_na_cigaru
 pygargue_à_tête_blanche
 pyhä_pillerinpyörittäjä
@@ -5648,7 +5752,6 @@ querer_el_oro_y_el_moro
 questioned_the_question
 quien_no_llora,_no_mama
 quit_while_one_is_ahead
-qui̱cuconiejchi̱jchihua
 quod_erat_demonstrandum
 quote_chapter_and_verse
 quotients_intellectuels
@@ -5656,6 +5759,7 @@ qué_tripa_se_te_ha_roto
 radiative_recombination
 radio_cassette_recorder
 radio_direction_finders
+radioactive_equilibrium
 radiochemosensitization
 radioimmunoconjugations
 radioimmunoprecipitated
@@ -5690,6 +5794,7 @@ ravintola-ammattilainen
 ravitsemussuunnittelija
 rawhead_and_bloodybones
 reactante_de_fase_aguda
+reaction_rate_constants
 reactive_oxygen_species
 reads_between_the_lines
 reaktionshastighedernes
@@ -5713,6 +5818,7 @@ rechtswissenschaftliche
 rechtvaardigheidsgevoel
 recompartmentalizations
 reconnaissance_in_force
+reconocimiento_de_marca
 reconstitutionalization
 reconstructed_languages
 recovery_time_objective
@@ -5850,6 +5956,7 @@ rotating_magnetic_field
 rotazione_delle_colture
 rotazioni_delle_colture
 rouge_comme_une_pivoine
+roughing_up_the_bullpen
 roulettes_de_défilement
 route_of_administration
 rovescio_della_medaglia
@@ -5879,6 +5986,8 @@ running_into_the_ground
 ruoansulatusjärjestelmä
 rural_sanitary_district
 rusés_comme_des_renards
+rzucać_lwom_na_pożarcie
+rzucić_lwom_na_pożarcie
 rättstavningskontrollen
 rättstavningskontroller
 rätvinkliga_trianglarna
@@ -5890,6 +5999,8 @@ rödhuvade_törnskatornas
 rödstrupiga_piplärkorna
 rödvingade_vadarsvalans
 rödvingade_vadarsvalors
+rückbezüglichem_Fürwort
+rückbezügliches_Fürwort
 rückläufiges_Wörterbuch
 s'en_donner_à_cœur_joie
 s'habiller_comme_un_sac
@@ -6016,6 +6127,7 @@ semihemidemisemiquavers
 semispinale_della_testa
 semispinali_della_testa
 sending_someone_packing
+sending_to_the_scaffold
 sensationsjournalistiks
 senteissä_tuhannen_alku
 senza_peli_sulla_lingua
@@ -6032,6 +6144,7 @@ set_someone_on_pedestal
 set_the_heather_on_fire
 set_the_record_straight
 set_the_world_to_rights
+sets_one's_hair_on_fire
 settling_someone's_hash
 seven-level_screwdriver
 seven_minutes_in_heaven
@@ -6043,7 +6156,6 @@ seòmraichean-biadhtachd
 shareholders'_agreement
 sharp_as_a_bowling_ball
 she_could_be_his_mother
-shipotos̈hka's̈ho'lochi
 shit_or_get_off_the_can
 shit_or_get_off_the_pot
 short-circuit_operators
@@ -6081,6 +6193,7 @@ sich_auf_den_Weg_machen
 sich_erkenntlich_zeigen
 sidereal_orbital_period
 sidewalk_superintendent
+siebenundzwanzigstündig
 siedemdziesiąt_dziewięć
 siete_pecados_capitales
 sign_on_the_dotted_line
@@ -6092,6 +6205,7 @@ silicoaluminophosphates
 silná_jaderná_interakce
 silver-leaved_bloodwood
 silver-leaved_ironbarks
+silver-spoon_socialists
 simple_harmonic_motions
 since_times_out_of_mind
 sindrome_di_Klinefelter
@@ -6220,6 +6334,7 @@ spinal_muscular_atrophy
 spinning_in_one's_grave
 spinoreticulocerebellar
 spiny_softshell_turtles
+spitting_straight_facts
 spondilite_anchilosante
 spondiliti_anchilosanti
 spontaneous_combustions
@@ -6232,16 +6347,22 @@ spätmittelhochdeutschem
 spätmittelhochdeutschen
 spätmittelhochdeutscher
 spätmittelhochdeutsches
+spécialité_de_la_maison
 squad_automatic_weapons
 square_root_of_fuck_all
 squeal_like_a_stuck_pig
 sráidbhaile_éiceolaíoch
+stabiliseringspolitiken
+stable_marriage_problem
+stable_matching_problem
 stand_up_and_be_counted
 standards_and_practices
 standards_of_comparison
 standards_organizations
 standenvergaderingetjes
 starts_the_ball_rolling
+state-owned_enterprises
+state_owned_enterprises
 stationary_distribution
 statistiche_descrittive
 statsrådsberedningarnas
@@ -6389,6 +6510,7 @@ sympathoadrenomedullary
 synchronisation_proxies
 synchronization_domains
 synchronization_proxies
+syndrome_de_l'imposteur
 syndrome_du_cri_du_chat
 synnynnäinen_jättisuoli
 synnytysvalmennuskurssi
@@ -6417,7 +6539,6 @@ table_de_multiplication
 tachyonic_antitelephone
 tactical_air_commanders
 tactical_assembly_areas
-tail-between-one's-legs
 tail_between_one's_legs
 tailler_le_bout_de_gras
 taistelu_olemassaolosta
@@ -6530,11 +6651,13 @@ tez-tez_verilən_suallar
 thank_one's_lucky_stars
 that's_saying_something
 that_old_dog_won't_hunt
+the_end_of_one's_tether
 the_joke_is_on_somebody
 the_long_arm_of_the_law
 the_straight_and_narrow
 the_temple_of_immensity
 the_war_to_end_all_wars
+the_wolf_is_at_the_door
 thenoyltrifluoroacetone
 theoretical_probability
 there_is_no_there_there
@@ -6547,6 +6670,7 @@ thin-film_interferences
 think_no_end_of_oneself
 thinking_man's_crumpets
 thiogalactopyranosidase
+third_angle_projections
 third_time_is_the_charm
 third_time_pays_for_all
 thirty_pieces_of_silver
@@ -6595,9 +6719,11 @@ tieteellis-populaarinen
 tietojenkäsittelyteoria
 tietokantasuunnittelija
 tietotekniikka-asentaja
+tight_as_Dick's_hatband
 tight_as_a_gnat's_chuff
 tight_building_syndrome
 til_hamingju_með_daginn
+tilaisuus_tekee_varkaan
 till_the_cows_come_home
 tillämpningsföreskrifts
 time_and_motion_studies
@@ -6617,6 +6743,7 @@ tlaxcalmimilyaualtontli
 to_heck_in_a_handbasket
 to_hell_in_a_handbasket
 to_kill_the_fatted_calf
+to_se_rozumí_samo_sebou
 to_those_it_may_concern
 tochtomahuactlacopahtli
 todellisuudentajuisesti
@@ -6636,6 +6763,7 @@ took_into_consideration
 took_someone's_head_off
 toothed_jelly_mushrooms
 topping_from_the_bottom
+toriatsukai_setsumeisho
 torinaki_sato_no_kōmori
 torjunta-aineteollisuus
 tornozeleira_eletrônica
@@ -6674,6 +6802,7 @@ transitional_provisions
 transitive_dependencies
 transphosphatidylations
 transport_safety_boards
+transportation_networks
 transthioesterification
 transtorno_de_ansiedade
 transubstantiationalist
@@ -6715,6 +6844,7 @@ trocar_o_dia_pela_noite
 troen_kan_flytte_bjerge
 trois_pelés_et_un_tondu
 tromboendoarteriectomia
+trompeta_de_los_muertos
 trpělivost_růže_přináší
 truncated_cuboctahedron
 truncated_dodecahedrons
@@ -6731,6 +6861,7 @@ tu_leży_pies_pogrzebany
 tu_peux_toujours_courir
 tuan-tuan_dan_puan-puan
 tulla_toisiin_aatoksiin
+tulospalkkiojärjestelmä
 tumour_necrosis_factors
 tunel_czasoprzestrzenny
 turn-and-bank_indicator
@@ -6751,6 +6882,7 @@ twee_handen_op_één_buik
 twenty-five-thousanders
 twenty-four_hours_a_day
 twenty-twenty_hindsight
+twisted_someone's_words
 two_days_after_tomorrow
 two_wrongs_make_a_right
 tyrannies_of_majorities
@@ -6767,7 +6899,6 @@ téléphones_intelligents
 téléphônes_dé_pouchette
 télévîsion_dé_satellite
 tîmbres_pouor_l'êtrangi
-tónteeldę́ę́ʼ_níyoltsoh
 töredezettségmentesítés
 tłʼoh_waaʼí_nahalinígíí
 tłʼóóʼgóó_dadiltłiʼígíí
@@ -6858,6 +6989,8 @@ vakarinėmis_žvaigždėmis
 vakka_kantensa_valitsee
 valkoisen_miehen_taakka
 valkoisen_paperin_kammo
+vallokalsundersökningar
+vallokalsundersökningen
 valores_característicos
 valores_preestablecidos
 valtakunnansovittelijan
@@ -6943,6 +7076,7 @@ vieraspaikkakuntalainen
 vierkante_kilometertjes
 viestimestaruuskilpailu
 vieux_comme_les_chemins
+view_someone's_etchings
 vigilantes_de_seguridad
 viideskymmeneskahdeksas
 viideskymmenesseitsemäs
@@ -7012,6 +7146,8 @@ von_etwas_Wind_bekommen
 von_nichts_kommt_nichts
 vonatkoztatási_rendszer
 vorauseilender_Gehorsam
+voted_with_one's_wallet
+votes_with_one's_wallet
 vox_populi_vox_Rindvieh
 vrachtwagenchauffeurtje
 vreemde_eend_in_de_bijt
@@ -7076,6 +7212,7 @@ what's_someone's_damage
 what_about_the_children
 what_are_you_looking_at
 what_it_says_on_the_tin
+what_someone_is_made_of
 what_the_cat_dragged_in
 what_the_doctor_ordered
 what_way_the_wind_blows
@@ -7086,6 +7223,7 @@ whistle-belly_vengeance
 whistling_down_the_wind
 whistling_face_syndrome
 white-bearded_antshrike
+white-breasted_waterhen
 white-coat_hypertension
 white-flippered_penguin
 white-gaped_honeyeaters
@@ -7110,6 +7248,7 @@ wieża_z_kości_słoniowej
 wild_lily-of-the-valley
 wilk_w_jagnięcej_skórze
 will_it_play_in_Peoria?
+windmills_in_one's_head
 wins_one_for_the_Gipper
 winter_vomiting_disease
 wintoninkultakontiainen
@@ -7157,6 +7296,8 @@ wrong_on_so_many_levels
 wrongful_death_statutes
 wykopywać_topór_wojenny
 wylać_dziecko_z_kąpielą
+wynajdować_koło_na_nowo
+wynajdywać_koło_na_nowo
 wyprowadzać_z_równowagi
 wyprowadzić_z_równowagi
 wótááhgóó_ałnááʼáłtʼahí
@@ -7172,7 +7313,6 @@ xìnyòng_děngjí_píngdìng
 xūyào_shì_fāmíng_zhī_mǔ
 yanking_someone's_chain
 yardımına_ihtiyacım_var
-yeenaʼałkǫ́ʼíłániichilí
 yellow-breasted_bunting
 yellow-headed_blackbird
 yellow-rumped_mannikins
@@ -7239,6 +7379,7 @@ zwei_Dumme,_ein_Gedanke
 zweimal_hinsehen_müssen
 zweite_Lautverschiebung
 zwischen_Baum_und_Borke
+zygomaticofacial_nerves
 zákon_vyloučení_třetího
 zìgǔ_hóngyán_duō_bómìng
 Àomén_Tèbié_Xíngzhèngqū
@@ -7261,7 +7402,6 @@ zìgǔ_hóngyán_duō_bómìng
 ácido_quenodesoxicólico
 ácidos_tricloroacéticos
 áttaermdur_høgguslokkur
-áłchínísh_nihee_dahólǫ́
 äktenskapsbryterskornas
 äänentallennustekniikka
 ça_ne_mange_pas_de_pain
@@ -7379,6 +7519,8 @@ zìgǔ_hóngyán_duō_bómìng
 Ви_говорите_англійською
 Восточно-Китайское_море
 Восточно-Сибирское_море
+Иран_Ислам_Республикасы
+Мисир_Араб_Республикасы
 Пикассо_прямоугольчатом
 Пикассо_прямоугольчатые
 Пикассо_прямоугольчатый
@@ -7779,6 +7921,7 @@ zìgǔ_hóngyán_duō_bómìng
 супружеских_неверностях
 супружеской_неверностью
 супружескою_неверностью
+сыновняя_почтительность
 там_хорошо,_где_нас_нет
 телевизионными_каналами
 теорией_относительности
@@ -7800,6 +7943,7 @@ zìgǔ_hóngyán_duō_bómìng
 уменьшительными_словами
 файл_атауының_кеңейтімі
 финансово-экономический
+хатырыктаах_бөх_тэллэйэ
 хлороводородна_киселина
 художествена_гимнастика
 художник-мультипликатор
@@ -7837,71 +7981,36 @@ zìgǔ_hóngyán_duō_bómìng
 Չեխիայի_Հանրապետություն
 դավադրության_տեսություն
 սպառազինության_մրցավազք
-אַ_לעבן_אויף_דײַן_קאָפּ
+אַ_רוח_אין_דײַן_טאַטן_אַרײַן
 איחוד_האמירויות_הערביות
 איך_רעד_ניט_קיין_ענגליש
-ווי_אַ_פֿיש_אין_וואַסער
-נאַציאָנאַל־סאָציאַליזם
+באָסניע_און_הערצעגאָווינע
 על_טעם_וריח_אין_להתווכח
+תּורה_איז_די_בעסטע_סחורה
 ئامېرىكا_قوشما_شتاتلىرى
 الجزر_العذراء_الأمريكية
 القارة_القطبية_الجنوبية
 املای_نانوشته_غلط_ندارد
 جمهورية_البوسنة_والهرسك
 صلى_الله_عليه_وآله_وسلم
-عَِروَْ_اموْهُنمَووْرَن
 لا_يسمن_ولا_يغني_من_جوع
 ليلة_سعيدة_وأحلام_لذيذة
 مال_البخيل_ياكله_العيار
 مىكرو_دولقۇنلۇق_دۇخوپكا
 میرزا_تقی_خان_امیر_کبیر
-ހުވަދުއަތޮޅު_އުތުރުބުރި
-ހުވަދުއަތޮޅު_ދެކުނުބުރި
-މާޅޮސްމަޑުލު_އުތުރުބުރި
-މާޅޮސްމަޑުލު_ދެކުނުބުރި
-ތިލަދުންމަތީ_އުތުރުބުރި
-ތިލަދުންމަތީ_ދެކުނުބުރި
-क्या_आप_हिंदी_बोलते_हैं
-घर_की_मुर्ग़ी_दाल_बराबर
-जर्मनी_का_संघीय_गणतंत्र
-तूफ़ान_के_पहले_की_शांति
-नाच्न_नजान्ने_आँगन_टेडो
-मुख्य_कार्यकारी_अधिकारी
-रक्षाबंधन_की_शुभकामनाएँ
-सब्र_का_फल_मीठा_होता_है
-আমি_ইংরেজি_বলতে_পারি_না
-গণপ্রজাতন্ত্রী_বাংলাদেশ
-হায়রে_লন্ডন_শান্তি_নাই
-பெங்களூர்_கத்திரிக்காய்
-గుడ్డి_కన్నా_మెల్ల_మేలు
-ప్రొద్దుతిరుగుడు_పువ్వు
-సూక్ష్మజీవశాస్త్రజ్ఞుడు
-การขัดกันแห่งผลประโยชน์
-บอสเนียและเฮอร์เซโกวีนา
-ว่าแต่เขา_อิเหนาเป็นเอง
-ศักดิ์ศรีความเป็นมนุษย์
-สหราชอาณาจักรบริเตนใหญ่
-สหราชอาณาจักรเกรตบริเตน
-สัตว์เลี้ยงลูกด้วยน้ำนม
-สัตว์ไม่มีกระดูกสันหลัง
-เด็กเจ็ดเข้าเฒ่าเจ็ดสิบ
-เหนือเกล้าเหนือกระหม่อม
-โพรงเยื่อหุ้มปอดมีอากาศ
-โรคติดต่อทางเพศสัมพันธ์
-ཀོང་གོ་མི་དམངས་དམངས་གཙོ
-མོ་ཊའི་ཨང་གྲངས་ལྕགས་ལེབ
-ལྷན་ཅིག་སྐྱེས་པའི་དགའ་བ
-ကဆုန်နယုန်_ဆွေ့ဆွေ့ခုန်
-ကုလားအချုပ်၊_တရုတ်အခြယ်
-တၢ်ဟံးဆူၣ်ကီၢ်တၢ်စိကမီၤ
-ထရီနီဒတ်နှင့်_တိုဘက်ဂို
-ဒုတိယဗိုလ်ချုပ်မှူးကြီး
-ရွှေနန်းရွှေပြာသာဒ်သခင်
-အလုပ်မရှိ_ကြောင်ရေချိုး
-ၵိုၵ်းဝၢၼ်ႈၵိုၵ်းမိူင်း
-ၵူၼ်းၶၢႆၶူဝ်းၸွမ်းတၢင်း
-ၵူၼ်းၸွႆႈႁေႃႈႁိူဝ်းမိၼ်
-ၵူၼ်းႁဵတ်းႁူဝ်ပၵ်းၶိတ်း
+जाति_ना_पूछो_साधु_की;_पूछ_लीजिए_ज्ञान
+जाती_ना_पूछो_साधु_की;_पूछ_लीजिए_ज्ञान
+গ্রেট_ব্রিটেন_ও_উত্তর_আয়ারল্যান্ড_যুক্তরাজ্য
+ఆవుల_సాధుత్వమూ,_బ్రాహ్మణుల_పేదరికమూ_లేదు
+గాజుపూసల_గనిలో_ఘనమయిన_మణి_కలుగునా
+చెప్పులు_చిన్నవి_అని_కాళ్లు_తెగకోసుకో_వచ్చునా
+ตีเหล็กเมื่อแดง_กินแกงเมื่อร้อน
+สาธารณรัฐประชาธิปไตยคองโก
+สุราเมระยะมัชชะปะมาทัฏฐานะ
+สุราเมระยะมัชชะปะมาทัฏฐานัง
+เข้าเมืองตาหลิ่วต้องหลิ่วตาตาม
+ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ
+འགྲུལ་འཁོར་གཏང་ཆོག་པའི་ཆོག་ཐམ
 ასოციაციათა_თავისუფლება
 გილოცავთ_დაბადების_დღეს
 დრო_ყველაფრის_მკურნალია
@@ -7911,8 +8020,7 @@ zìgǔ_hóngyán_duō_bómìng
 სოციალური_სამართლიანობა
 ქართულად_ვერ_ვლაპარაკობ
 შთაბეჭდილების_ქვეშ_არის
-វិជ្ជាជីវៈខាងសារព័ត៌មាន
-អ្នកវិទ្យាសាស្ត្រនយោបាយ
+ᠪᠦᠭᠦᠳᠡ_ᠨᠠᠶ᠋ᠢᠷᠠᠮᠳᠠᠬᠤ_ᠤᠯᠤᠰ
 ọbẹ_to_dun,_owo_lo_pa_a
 ἐν_κρυπτῷ_καί_παραβύστῳ
 ἐν_κρυπτῷ_καὶ_παραβύστῳ

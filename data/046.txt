@@ -29,6 +29,7 @@ chiudere_la_stalla_quando_i_buoi_sono_scappati
 chuāngshānghòu_xīnlǐ_yālì_jǐnzhāng_zhènghòuqún
 como_diria_Jack_o_Estripador,_vamos_por_partes
 could_not_touch_something_with_a_ten_foot_pole
+când_pisica_nu-i_acasă,_joacă_șoarecii_pe_masă
 den_enen_sien_Uul_is_den_annern_sien_Nachtigal
 den_som_kommer_først_til_mølla,_får_først_malt
 di_mana_bumi_diinjak,_di_sana_langit_dijunjung
@@ -42,6 +43,7 @@ en_kvinne_uten_mann_er_som_en_fisk_uten_sykkel
 fra_børn_og_fulde_folk_skal_man_høre_sandheden
 great-great-great-great-great-great-grandchild
 great_great_great_great_great_great_grandchild
+hypotalamus–aivolisäke–lisämunuaiskuori-akseli
 hər_uğurlu_kişinin_arxasında_bir_qadın_dayanır
 is_i_an_dias_is_truime_is_ìsle_chromas_a_ceann
 it's_better_to_ask_forgiveness_than_permission
@@ -57,6 +59,7 @@ mennä_yhdestä_korvasta_sisään_ja_toisesta_ulos
 methenyltetrahydromethanopterin_cyclohydrolase
 my_very_educated_mother_just_served_us_noodles
 más_vale_pájaro_en_mano_que_ver_ciento_volando
+naałniih_yichʼą́ą́h_naabaahígíí_bąąh_dahooʼaahgo
 namo_tassa_bhagavato_arahato_sammāsambuddhassa
 ne_pas_avoir_inventé_le_fil_à_couper_le_beurre
 nicht_auf_der_Brennsuppe_dahergeschwommen_sein
@@ -78,6 +81,7 @@ si_quieres_conocer_a_Agapito,_dale_un_puestito
 skulle_ikke_løbe_mange_gange_rundt_om_min_seng
 success_has_many_fathers,_failure_is_an_orphan
 tanto_monta,_monta_tanto,_Isabel_como_Fernando
+te_yu_mati_barba_e_bron,_yu_musu_nati_di_fu_yu
 that_and_a_dollar_will_get_you_a_cup_of_coffee
 that_and_a_nickel_will_buy_you_a_cup_of_coffee
 that_which_doesn't_kill_you_makes_you_stronger
@@ -100,6 +104,7 @@ you_do_not_dip_your_pen_in_the_company_inkwell
 you_pays_your_money_and_you_takes_your_chances
 you_pays_your_nickel_and_you_takes_your_choice
 zhǐ_xǔ_zhōuguān_fànghuǒ,_bùxǔ_bǎixìng_diǎndēng
+ílį́įgo_Wááshindoon_Bikéyah_biiʼ_kééhojitʼíinii
 Šri_Lankos_Demokratinė_Socialistinė_Respublika
 żeby_kózka_nie_skakała,_toby_nóżki_nie_złamała
 Πρώην_Γιουγκοσλαβική_Δημοκρατία_της_Μακεδονίας
@@ -117,8 +122,3 @@ zhǐ_xǔ_zhōuguān_fànghuǒ,_bùxǔ_bǎixìng_diǎndēng
 подобро_врапче_на_рака_отколку_гулаб_на_гранка
 посттравматическими_стрессовыми_расстройствами
 пульсирующими_воздушно-реактивными_двигателями
-ఒక_చెంప_కొట్టితే_పాలు,_వక_చెంప_కొట్టితే_నీళ్లు
-కండ్లకు_గంతకట్టి_అడవిలో_వదిలిపెట్టబడ్డ_వానివలె
-చీమలు_పెట్టిన_పుట్టలు_పాములకు_యిరవు_అవుతున్నవి
-తప్పెట_కొట్టినవాడు_దాసరి,_శంఖం_వూదినవాడు_జంగము
-นะโม_ตัสสะ_ภะคะวะโต_อะระหะโต_สัมมา_สัมพุทธัสสะ

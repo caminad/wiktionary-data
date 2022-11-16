@@ -12,8 +12,6 @@ Bosnijas_un_Hercegovinas_Federācijas
 Béésh_Bichʼahii_beʼakétłʼóól_dijoolí
 Caesar's_wife_must_be_above_reproach
 Canavan-Van_Bogaert-Bertrand_disease
-Chį́į́h_Yee_Adilohiijí_dah_oonéłígíí
-Chį́į́h_yee_Adilohiijí_dah_oonéłígíí
 Co-operative_Commonwealth_Federation
 Comunidade_dos_Estados_Independentes
 Conmemoración_de_los_Fieles_Difuntos
@@ -52,7 +50,9 @@ Měiguó_Xìnxí_Jiāohuàn_Biāozhǔn_Dàimǎ
 Měiguó_Xìnxī_Jiāohuàn_Biāozhǔn_Dàimǎ
 Měiguó_Zīxùn_Jiāohuàn_Biāozhǔn_Dàimǎ
 Na_Stàitean_Aonaichte_na_h-Amaireaga
+Nahasdzáán_Baa_Hą́ą́hwiindzin_Bá_Hazʼą́
 Nowy_Rok_przybywa_dnia_o_barani_skok
+Náátsʼózídę́ę́ʼ_mósíłkizhii_ałchinígíí
 OpenB@NearSideTrunkhigh-PalmBack_Nod
 Poblacht_Iar-Iúgslavach_na_Macadóine
 Prinzips_der_geringsten_Überraschung
@@ -60,6 +60,8 @@ Pythagorean_trigonometric_identities
 Raphanus_raphanistrum_subsp._sativus
 Reden_ist_Silber,_Schweigen_ist_Gold
 República_Árabe_Saharaui_Democrática
+Shádiʼááhdę́ę́ʼ_náshdóítsoh_łikizhígíí
+Shádiʼááhdę́ę́ʼ_tsétah_mósí_ałchinígíí
 Socialist_Federal_Rep._of_Yugoslavia
 Stato_Libero_Associato_di_Porto_Rico
 There_but_for_the_grace_of_God_go_I.
@@ -102,7 +104,9 @@ apakah_Anda_berbicara_bahasa_Inggris
 apakah_anda_berbicara_bahasa_Inggris
 apple_doesn't_fall_far_from_the_tree
 ar_jūs_vartojate_kokius_nors_vaistus
+arrière-arrière-arrière-petite-fille
 as_much_use_as_a_chocolate_fireguard
+asks_how_high_when_someone_says_jump
 aspect-oriented_programming_language
 auf_einem_Bein_kann_man_nicht_stehen
 autonomous_sensory_meridian_response
@@ -188,6 +192,7 @@ down_the_road,_not_across_the_street
 eaten_an_elephant_one_bite_at_a_time
 eats_from_the_palm_of_someone's_hand
 ein_Bild_sagt_mehr_als_tausend_Worte
+ein_Esel_schimpft_den_andern_Langohr
 ein_gebranntes_Kind_scheut_das_Feuer
 employ_a_steam_engine_to_crack_a_nut
 en_casa_de_herrero,_cuchillo_de_palo
@@ -247,6 +252,7 @@ in_the_wrong_place_at_the_wrong_time
 in_the_year_of_our_Lord_Jesus_Christ
 indolent_lesion_of_epithelial_origin
 infant_respiratory_distress_syndrome
+infection_sexuellement_transmissible
 it's_a_long_road_that_has_no_turning
 it's_who_you_know,_not_what_you_know
 it_depends_which_foot_the_shoe_is_on
@@ -390,6 +396,7 @@ poner_el_carro_delante_de_los_bueyes
 popular_as_a_skunk_at_a_garden_party
 possession_is_nine-tenths_of_the_law
 possession_is_nine_points_of_the_law
+post-micturition_convulsion_syndrome
 posterior_inferior_cerebellar_artery
 prendre_ses_désirs_pour_des_réalités
 procrastination_is_the_thief_of_time
@@ -417,6 +424,7 @@ quien_bien_te_quiere,_te_hará_llorar
 quien_empieza_ganando_acaba_llorando
 quien_quiera_peces,_que_moje_el_culo
 qu’est-ce_qu’il_ne_faut_pas_entendre
+raise_oneself_up_by_one's_bootstraps
 raised_the_flag_and_seen_who_saluted
 raises_the_flag_and_sees_who_salutes
 rams_something_down_someone's_throat
@@ -447,8 +455,11 @@ sionnach_ann_an_craiceann_na_caorach
 six_of_one_half_a_dozen_of_the_other
 sixty-four_thousand_dollar_questions
 slip_into_something_more_comfortable
+smelled_what_someone_was_stepping_in
+smelling_what_someone_is_stepping_in
 so_long,_and_thanks_for_all_the_fish
 so_sicher_wie_das_Amen_in_der_Kirche
+speak_now_or_forever_hold_your_peace
 spectacles,_testicles,_wallet,_watch
 spoil_the_ship_for_a_hap'orth_of_tar
 staphylococcal_scalded_skin_syndrome
@@ -578,20 +589,7 @@ you_must_play_the_hand_you_are_dealt
 хипопотомонстросесквипедалиофобијата
 хязгаарлагдмал_хариуцлагатай_компани
 طلع_تاكل_الكرموس،_نزل_شكون_قالها_ليك
-अन्तर्राष्ट्रीय_ध्वन्यात्मक_वर्णमाला
-ॳकिस_दज़ान_दऻर_तॖ_ब्याख_वुशनावान_अथॖ
-అయ్యో_అంటే,_ఆరు_నెలల_పాపం_వస్తున్నది
-ఒక_చెవితో_విని_మరో_చెవితో_వదిలెయ్యడం
-చీకటి_కొన్నాళ్లు,_వెన్నెల_కొన్నాళ్లు
-చోద్యాల_సోమిదేవమ్మకు_వాధ్యారి_మొగుడు
-జగమెరిగిన_బ్రాహ్మణునికి_జంధ్యమెందుకు
-జరిగేమట్టుకు_జయభేరి,_జరగకపోతే_రణభేరి
-กล้องจุลทรรศน์อิเล็กตรอนชนิดส่องกราด
-กล้องจุลทรรศน์อิเล็กตรอนชนิดส่องผ่าน
-ཨ་མེ་རི་ཁ་རྒྱལ་ཕྲན་མཉམ་འབྲེལ་རྒྱལ་ཁབ
-နမော_တဿ_ဘဂဝတော_အရဟတော_သမ္မာသမ္ဗုဒ္ဓဿ
 პროლეტარებო_ყველა_ქვეყნისა,_შეერთდით
-ចាបមួយនៅដៃប្រសើរក្រៃ_ជាងចាបដប់នៅលើឈើ
 ⿺辶⿳穴⿲月⿱⿲幺言幺⿲長馬長刂心⿺辶⿳穴⿲月⿱⿲幺言幺⿲長馬長刂心兒麪
 ⿺辶⿳穴⿲月⿱⿲幺言幺⿲長馬長刂心⿺辶⿳穴⿲月⿱⿲幺言幺⿲長馬長刂心兒麵
 ⿺辶⿳穴⿲月⿱⿲幺言幺⿲长马长刂心⿺辶⿳穴⿲月⿱⿲幺言幺⿲长马长刂心儿面

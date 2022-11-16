@@ -33,6 +33,8 @@ le_beurre,_l'argent_du_beurre_et_le_cul_de_la_crémière
 les_plaisanteries_les_plus_courtes_sont_les_meilleures
 let_the_doorknob_hit_you_where_the_good_Lord_split_you
 lieber_eine_Stumme_im_Bett_als_eine_Taube_auf_dem_Dach
+looks_as_if_one_had_lost_a_shilling_and_found_sixpence
+looks_as_if_one_has_lost_a_shilling_and_found_sixpence
 never_interrupt_your_enemy_when_he_is_making_a_mistake
 náʼoolkiłí_tʼááłáʼí_ahééʼílkid_bee_náás_ninádajiiłkeed
 on_n'apprend_pas_à_un_vieux_singe_à_faire_des_grimaces
@@ -50,5 +52,3 @@ you’re_damned_if_you_do_and_you’re_damned_if_you_don’t
 Обединето_Кралство_на_Велика_Британија_и_Северна_Ирска
 молодым_везде_у_нас_дорога,_старикам_везде_у_нас_почёт
 Խորհրդային_Սոցիալիստական_Հանրապետությունների_Միություն
-గురువు_నిలుచుండి_తాగితే,_శిష్యుడు_పరుగెత్తుతూ_తాగుతాడు
-ไม่ได้ด้วยเล่ห์ก็เอาด้วยกล_ไม่ได้ด้วยมนต์ก็เอาด้วยคาถา

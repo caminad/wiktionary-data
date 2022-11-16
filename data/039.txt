@@ -28,11 +28,9 @@ Korejas_Tautas_Demokrātiskajā_Republikā
 Korejas_Tautas_Demokrātiskās_Republikas
 Kraftfahrzeug-Haftpflichtversicherungen
 Mayer-Rokitansky-Küster-Hauser_syndrome
-Nahasdzáán_Baa_Hą́ą́hwiindzin_Bá_Hazʼą́
 Nepālas_Federālo_Demokrātisko_Republika
 Nepālas_Federālo_Demokrātisko_Republiku
 Nepālas_Federālā_Demokrātiskā_Republika
-Náátsʼózídę́ę́ʼ_mósíłchíiʼii_ałchinígíí
 People's_Democratic_Republic_of_Algeria
 People’s_Democratic_Republic_of_Algeria
 Proto-Central-Eastern_Malayo-Polynesian
@@ -124,6 +122,7 @@ follow_someone_to_the_ends_of_the_world
 forcing_something_down_someone's_throat
 forget_to_take_one's_pills_this_morning
 forgot_to_take_one's_pills_this_morning
+fă-te_frate_cu_dracul_până_treci_puntea
 getting_the_dirty_water_off_one's_chest
 getting_up_on_the_wrong_side_of_the_bed
 great-great-great-great-great-grandsons
@@ -143,7 +142,9 @@ huile_essentielle_d'eucalyptus_citronné
 huile_essentielle_d’eucalyptus_citronné
 hydrocarbures_aromatiques_polycycliques
 hypertrophic_pulmonary_osteoarthropathy
+hypotalamus-aivolisäke-sukurauhasakseli
 hyvää_joulua_ja_onnellista_uutta_vuotta
+if_life_gives_you_lemons,_make_lemonade
 if_my_aunt_had_balls,_she'd_be_my_uncle
 if_you_lie_with_dogs_you_will_get_fleas
 il_ne_faut_pas_abuser_des_bonnes_choses
@@ -173,8 +174,11 @@ laughed_on_the_wrong_side_of_one's_face
 laughs_on_the_wrong_side_of_one's_mouth
 letting_the_grass_grow_round_one's_feet
 letting_the_grass_grow_under_one's_feet
+lift_oneself_up_by_one's_own_bootstraps
+lift_oneself_up_by_one's_own_waistbands
 looks_like_something_the_cat_dragged_in
 los_caminos_del_Señor_son_inescrutables
+lupul_își_schimbă_părul,_dar_năravul_ba
 massanẋara-a_proletaraš_cẋa_bart_bejlaš
 matar_a_la_gallina_de_los_huevos_de_oro
 methinks_the_lady_doth_protest_too_much
@@ -187,6 +191,7 @@ mod_dumhed_kæmper_selv_guderne_forgæves
 munakasta_ei_voi_tehdä_rikkomatta_munia
 muut_lihaan_verrattavat_valmistusaineet
 mélanger_les_torchons_et_les_serviettes
+naadoobooʼíinii_bíchį́į́h_sǫʼ_nahalinígíí
 ndaej_dangj_vuengzdaeq_sieng_dangj_sien
 ne_pas_avoir_gardé_les_cochons_ensemble
 ne_pas_avoir_les_yeux_en_face_des_trous
@@ -220,6 +225,7 @@ pot_să_folosesc_telefonul_Dumneavoastră
 prendre_les_choses_comme_elles_viennent
 program_evaluation_and_review_technique
 project_evaluation_and_review_technique
+pull_oneself_up_by_one's_own_bootstraps
 put_on_one's_trousers_one_leg_at_a_time
 put_one's_trousers_on_one_leg_at_a_time
 quand_le_vin_est_tiré,_il_faut_le_boire
@@ -313,11 +319,7 @@ you_can't_put_new_wine_into_old_bottles
 Անկախ_Պետությունների_Համագործակցություն
 մարդու_իմունային_անբավարարության_վիրուս
 սովետական_սոցիալիստական_հանրապետություն
-అదృష్టం_కలిశివస్తే,_ఆలు_పెండ్లామవుతుంది
-కుట్టితే_తేలు,_కుట్టకుంటే_కుమ్మర_పురుగు
-గొడ్రాలికి_యేమి_తెలుసును_బిడ్డ_నొప్పులు
-เล่นกับหมาหมาเลียปาก_เล่นกับสากสากตีมือ
-အသီးမှာသရက်၊_အသားမှာဝက်၊_အရွက်မှာလက်ဖက်
+ఆకలి_కాకుండా_నీకు_ఔషధము_యిస్తాను,_నీ_యింట్లో_చద్ది_నాకు_పెట్టు_అన్నాడట
 დამოუკიდებელ_სახელმწიფოთა_თანამეგობრობა
 რასაცა_გასცემ_შენია,_რას_არა_დაკარგულია
 საათის_ისრის_საწინააღმდეგო_მიმართულებით

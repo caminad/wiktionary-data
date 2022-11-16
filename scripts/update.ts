@@ -6,6 +6,8 @@ import { readerFromStreamReader } from "https://deno.land/std@0.152.0/streams/mo
 const DEST_DIR = import.meta.resolve("../data/");
 const DUMPS_BASE_URL = "https://dumps.wikimedia.org/enwiktionary/latest/";
 
+const segmenter = new Intl.Segmenter("en", { granularity: "grapheme" });
+
 if (import.meta.main) {
   main();
 }
@@ -20,7 +22,7 @@ async function main() {
     return;
   }
   const titles = read_titles(res);
-  const grouped_titles = await group_by_code_point_count(titles);
+  const grouped_titles = await group_by_grapheme_count(titles);
 
   await ensure_empty(DEST_DIR);
   await write_grouped_titles(DEST_DIR, grouped_titles);
@@ -77,19 +79,19 @@ async function* read_titles(res: Response): AsyncIterableIterator<string> {
   yield* titles;
 }
 
-async function group_by_code_point_count(
+async function group_by_grapheme_count(
   strings: AsyncIterable<string>,
 ): Promise<Map<number, string[]>> {
   const groups = new Map<number, string[]>();
   for await (const s of strings) {
-    const code_point_count = [...s].length;
-    if (code_point_count === 0) {
+    const grapheme_count = Array.from(segmenter.segment(s)).length;
+    if (grapheme_count === 0) {
       continue;
     }
-    let group = groups.get(code_point_count);
+    let group = groups.get(grapheme_count);
     if (!group) {
       group = [];
-      groups.set(code_point_count, group);
+      groups.set(grapheme_count, group);
     }
     group.push(s);
   }

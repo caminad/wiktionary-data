@@ -1,6 +1,6 @@
 # Wiktionary data
 
-English Wiktionary titles organized by number of characters.
+English Wiktionary titles organized by number of graphemes.
 
 ## Example usage
 
@@ -22,4 +22,4 @@ Requires [Deno](https://deno.land/#installation).
 
 ## Source
 
-[https://dumps.wikimedia.org/enwiktionary/latest/](https://dumps.wikimedia.org/enwiktionary/latest/)[**enwiktionary-latest-all-titles-in-ns0.gz**](https://dumps.wikimedia.org/enwiktionary/latest/enwiktionary-latest-all-titles-in-ns0.gz)
+<https://dumps.wikimedia.org/enwiktionary/latest/>[**enwiktionary-latest-all-titles-in-ns0.gz**](https://dumps.wikimedia.org/enwiktionary/latest/enwiktionary-latest-all-titles-in-ns0.gz)
